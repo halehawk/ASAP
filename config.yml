@@ -70,10 +70,6 @@ params:
         - link:
           - name: Software
             url : software
-          - name: Education
-            url : education
-          - name: Services
-            url : services
-          - name: R&D
-            url : projects
+          - name: Research
+            url : research
 

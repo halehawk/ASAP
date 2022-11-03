@@ -1,15 +1,12 @@
 enable: true
 heading: METRICS
 counter_item:
-- title: Downloads
-  number: 1063943
+- title: Codes we've optimized
+  number: many
 
 - title: Publications
-  number: 27
+  number: lots
   url: publications
-
-- title: Packages
-  number: 9
 
 - title: SIParCS Interns
   number: 16

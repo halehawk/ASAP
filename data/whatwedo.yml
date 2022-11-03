@@ -3,17 +3,10 @@ title   : WHAT WE DO
 items   :
 
   - name : SOFTWARE
-    quote: We develop open source, community software that helps geoscientists visualize and analysize their data.
+    quote: Add something about the work we do on software 
     url  : software
 
-  - name : EDUCATION
-    quote: We help scientists  learn how to make the most effective use of software and services for geoscience data analysis.
-    url  : education
+  - name : RESEARCH
+    quote: Add something about the research we do
+    url  : research
 
-  - name : SERVICES
-    quote: We help the scientific community communicate their findings to the public and peers through advanced visualization.
-    url  : services
-
-  - name : R&D
-    quote: We conduct research aimed at improving our ability to make sense of the most complex and demanding data.
-    url  : projects
