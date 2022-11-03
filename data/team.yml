@@ -1,0 +1,73 @@
+enable  : true
+title   : VAST Staff
+members  :
+
+  - name        : NIHANTH CHERUKURU
+    designation : Project Scientist
+    ncaruname   : ncheruku
+    githubuname : NihanthCW
+
+  - name        : JOHN CLYNE
+    designation : Senior Program Manager
+    ncaruname   : clyne
+    githubuname : clyne
+
+  - name        : HEATHER CRAKER
+    designation : Software Engineer
+    ncaruname   : hcraker
+    githubuname : hCraker
+
+  - name        : ORHAN EROGLU
+    designation : Software Engineer
+    ncaruname   : oero
+    githubuname : erogluorhan
+
+  - name        : STANISLAW 'Stas' JAROSZYNSKI
+    designation : Software Engineer
+    ncaruname   : stasj
+    githubuname : StasJ
+
+  - name        : JULIA KENT
+    designation : Software Engineer
+    ncaruname   : jkent
+    githubuname : jukent
+
+  - name        : ALEA KOOTZ
+    designation : Software Engineer
+    ncaruname   : akootz
+    githubuname : pilotchute
+
+  - name        : SAMUEL LI
+    designation : Project Scientist
+    ncaruname   : shaomeng
+    githubuname : shaomeng
+
+  - name        : SCOTT PEARSE
+    designation : Software Engineer
+    ncaruname   : pearse
+    githubuname : sgpearse
+
+  - name        : MATT REHME
+    designation : Software Engineer
+    ncaruname   : mrehme
+    githubuname : MattRehme
+
+  - name        : MARIO RODRIGUEZ
+    designation : Software Engineer
+    ncaruname   : mrodriguez
+    githubuname : marodrig
+
+  - name        : COLLIN SINCLAIR
+    designation : Scientific Data Visualization Designer
+    ncaruname   : csinclair
+    githubuname : collinsinclair
+
+  - name        : MICHAELA SIZEMORE
+    designation : Software Engineer
+    ncaruname   : misi1684
+    githubuname : michaelavs
+
+  - name        : ANISSA ZACHARIAS
+    designation : Software Engineer
+    ncaruname   : anissaz
+    githubuname : anissa111

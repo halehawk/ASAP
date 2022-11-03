@@ -1,0 +1,6 @@
+name: asap_conda_metrics
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - anaconda-client

@@ -1,0 +1,79 @@
+baseURL       : https://asap.ucar.edu/
+languageCode  : en-us
+title         : "ASAP | Application Scalability And Performance"
+theme         : ncar
+enableGitInfo : true
+summarylength : 25
+
+menu:
+  nav:
+    - name      : About
+      url       : about
+      weight    : 1
+    - name      : News
+      url       : news
+      weight    : 2
+    - identifier: what
+      name      : What we do
+      weight    : 3
+    - parent    : what
+      name      : Software
+      url       : software
+      weight    : 1
+    - parent    : what
+      name      : Research
+      url       : research
+      weight    : 2
+    - name      : Publications
+      url       : publications
+      weight    : 4
+    - name      : Internships
+      url       : siparcs
+      weight    : 4
+
+# Site Params
+params:
+  name: ASAP
+  dateFormat: "26 FEB 1994"
+  description: "The ASAP (Application Scalability And Perfromance) section at the National Center for Atmospheric Research (NCAR)."
+  author: "ASAP"
+  email: "asap@ucar.edu"
+
+  news:
+    enable: true
+    title: RECENT NEWS
+    subtitle: Some of our most recent news
+
+  projects:
+    enable: true
+    title: RECENT PROJECTS
+    subtitle: Some of our most recent projects
+
+  footer:
+    contactInfo:
+      title  : Contact Info
+      address: 1850 Table Mesa Dr.<br>Boulder, CO 80305
+      email  : asap@ucar.edu
+
+    sitemap:
+      title: Sitemap
+      column:
+        - link:
+          - name: About us
+            url : about
+          - name: News
+            url : news
+          - name: Publications
+            url : publications
+          - name: Internships
+            url : siparcs
+        - link:
+          - name: Software
+            url : software
+          - name: Education
+            url : education
+          - name: Services
+            url : services
+          - name: R&D
+            url : projects
+

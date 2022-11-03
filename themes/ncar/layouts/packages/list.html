@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ with .Site.Data.packages }}
+{{ if .enable }}
+<section class="site-packages-header" style="background-image: url({{ .image | absURL }});">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1>
+          {{ .title }}
+        </h1>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-packages-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-packages-items">
+          {{ if .url }}<a href="{{ .url }}">{{ end }}
+            <li><b>{{ .package |  }}</b>" {{ .team }}{{ if .extra }}, {{ .extra }}{{ else }}{{ end }}.</li>
+            {{ if .url }}</a>{{ end }}            
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
