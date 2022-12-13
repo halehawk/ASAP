@@ -1,10 +1,13 @@
 enable: true
-heading: METRICS
+heading: THE IMPACTS OF OUR WORK
 counter_item:
-- title: Codes we've optimized
+- title: Software packages we've contributed towards
   number: many
 
-- title: Publications
+- title: Impact of our efforts
+  number: a lot 
+
+- title: Publications & Presentations
   number: lots
   url: publications
 

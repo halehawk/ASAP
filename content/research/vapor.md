@@ -1,17 +1,26 @@
 ---
-title  : "VAPOR"
+title  : "ASAP"
 date   : 2022-05-03T09:23:51-06:00
-type   : software
-tagline: "The Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers"
-docs   : "https://www.vapor.ucar.edu/"
-repo   : "https://github.com/NCAR/vapor"
-image  : "images/backgrounds/BarrierReef_hires.png"
+type   : research
+tagline: "Adding GPU Support Into CM1"
+repo   : "https://github.com/george-bryan/CM1/tree/gpu-opt"
+image  : "images/backgrounds/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
 ---
+The Cloud Model version 1 is a mesoscale atmospheric model that
+allows for idealized studies of atmospheric phenomena. A new
+Lagrangian microphysics capability has been added which enables
+a significantly more accurate representation than the traditional
+bulk or multi-moment approaches frequently found in mesoscale
+atmospheric models. We have utilized a directive-based approach
+to enable a single source code to efficiently support the execution of
+CM1 on both CPU and GPU-based computing platforms. In addition
+to the use of accelerator directives, changes to the index search
+scheme and the message-passing algorithms used by the lagrangian
+microphysics were necessary to enable efficient execution. We focus
+on a configuration of CM1 that will be used to investigate the impact
+of oceanic sea spray on the atmospheric boundary layer within
+a hurricane. We observe a factor of 4x reduction in time to the
+solution when between eight NVIDIA A100 GPUs and eight AMD
+Eypc based compute nodes
 
-VAPOR is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers. VAPOR provides an interactive 3D visualization environment that can also produce animations and still frame images. VAPOR runs on most UNIX and Windows systems equipped with modern 3D graphics cards.
-
-The VAPOR Data Collection (VDC) data model allows users progressively access the fidelity of their data, allowing for the visualization of terascale data sets on commodity hardware. VAPOR can also directly import data formats including WRF, MOM, POP, ROMS, and some GRIB and NetCDF files.
-
-Users can perform ad-hoc analysis with VAPOR’s interactive Python interpreter; which allows for the creation, modification, and visualization of new variables based on input model data.
-
-VAPOR is a product of the National Center for Atmospheric Research’s Computational and Information Systems Lab. Support for VAPOR is provided by the U.S. National Science Foundation (grants # 03-25934 and 09-06379, ACI-14-40412), and by the Korea Institute of Science and Technology Information
+CM1 is a product of the National Center for Atmospheric Research’s MMM Lab. Support for CM1 is provided by the U.S. National Science Foundation 
