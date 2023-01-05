@@ -19,7 +19,7 @@ scheme and the message-passing algorithms used by the lagrangian
 microphysics were necessary to enable efficient execution. We focus
 on a configuration of CM1 that will be used to investigate the impact
 of oceanic sea spray on the atmospheric boundary layer within
-a hurricane. We observe a factor of 4x reduction in time to the
+a hurricane. We observe a factor of 6.6x reduction in time to the
 solution when between eight NVIDIA A100 GPUs and eight AMD
 Eypc based compute nodes
 
