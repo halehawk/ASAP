@@ -12,3 +12,19 @@ items  :
     extra: pages
     url: https://it.is.found.here
 
+  - title: Importance of Ice Nucleation and Precipitation on Climate with the Parameterization of Unified Microphysics Across Scales version 1 (PUMASv1)
+    authors:
+      - Andrew Gettelman
+      - Hugh Morrison
+      - Trude Eidhammer
+      - Katherine Thayer-Calder
+      - Jian Sun
+      - Richard Forbes
+      - Zachary McGraw
+      - Jiang Zhu
+      - Trude Storelvmo
+      - John Dennis
+    journal: Geoscientific Model Development Discussion
+    year: 2022
+    extra: pages
+    url: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-980/ 
