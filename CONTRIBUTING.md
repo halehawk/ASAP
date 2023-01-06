@@ -18,8 +18,8 @@ test your build locally.
 To build the site on your machine:
 
 ````
-git clone https://github.com/NCAR/vast.git
-cd vast
+git clone https://github.com/NCAR/asap.git
+cd asap
 hugo serve
 ````
 
@@ -41,8 +41,8 @@ hugo v0.97.3+extended darwin/amd64 BuildDate=unknown
   Cleaned          |   0
 
 Built in 360 ms
-Watching for changes in /Users/kpaul/Software/Development/vast-web/{archetypes,content,data,layouts,static,themes}
-Watching for config changes in /Users/kpaul/Software/Development/vast-web/config.toml
+Watching for changes in /Users/kpaul/Software/Development/asap-web/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/kpaul/Software/Development/asap-web/config.toml
 Environment: "development"
 Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
