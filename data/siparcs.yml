@@ -14,3 +14,13 @@ items  :
      - mentor3
     year: 2022
 
+  - title: "Increasing the portability and reproducibility of a scientific application using containers and Spack"
+    student: Joe Ammatelli
+    university: University of Washington
+    url: "https://www2.cisl.ucar.edu/siparcs-2022-joe-ammatelli"
+    email: "jamma@uw.edu"
+    mentors:
+     - Jian Sun
+     - Brian Vanderwende
+     - John Dennis
+    year: 2022
