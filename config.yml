@@ -18,6 +18,10 @@ menu:
       url       : software
       weight    : 1
     - parent    : what
+      name      : Research Projects
+      url       : projects
+      weight    : 1
+    - parent    : what
       name      : Research
       url       : research
       weight    : 2
