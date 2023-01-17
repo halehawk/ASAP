@@ -1,0 +1,15 @@
+enable : true
+title  : Visitors
+image  : images/banners/aurora.jpg
+items  :
+       
+  - title: "Project Title"
+    student: StudentName1
+    university: University
+    url: "https://www2.cisl.ucar.edu/projectlink"
+    github: "@studentgithubhandle"
+    mentors:
+     - mentor1
+     - mentor2 
+     - mentor3
+    year: 2022
