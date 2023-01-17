@@ -32,9 +32,17 @@ menu:
     - name      : Publications & Presentations
       url       : publications
       weight    : 3
-    - name      : Internships
-      url       : siparcs
+    - identifier: collaborators
+      name      : Collaborators
       weight    : 4
+    - parent    : collaborators
+      name      : SIParCS
+      url       : siparcs
+      weight    : 1
+    - parent    : collaborators
+      name      : Students & Visitors
+      url       : visitors
+      weight    : 2
 
 # Site Params
 params:
