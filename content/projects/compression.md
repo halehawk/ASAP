@@ -2,7 +2,7 @@
 title: "Compression"
 date: 2023-01-18T09:19:37-07:00
 type: projects
-image: "images/backgrounds/soccer.jpg"
+image: "images/backgrounds/debbie-harris-R2Xm27QHdMs-unsplash.jpg"
 category: ["RESEARCH"]
 
 ---
@@ -37,15 +37,21 @@ and computing statistics on differences between multiple datasets,
 which enables climate scientists to discover potentially relevant
 compression-induced artifacts in their data.
 
-{{< figure src="/images/projects/data.png" caption="This figure illustrates data growth at NCAR from July 2018 to February 2022." width="700">}}
+{{< figure src="/images/projects/data.png" caption="This figure illustrates data growth at NCAR from July 2018 to February 2022. Total disk size is given in parenthesis." width="700">}}
 
 **Related software:**
 
 https://github.com/NCAR/ldcpy
 
-**Related publications:**
+**Related publications and tech notes:**
 
 H. Sather, A. Pinard, A.H. Baker, and D.M. Hammerling, “What can real information content tell us about compressing climate model data?” 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8), 2022, to appear.
+
+A.H. Baker, A. Pinard, and D.M. Hammerling, “Assessing the effects of compression on climate model visualizations with a structural similarity index for floating-point data”, submitted to TVCG, Sept. 2022. 
+
+A. Pinard, A.H. Baker, D.M. Hammerling, “Examining Variations in the Optimal Compression Level of Spatiotemporal Datasets Determined Using the Data Structural Similarity Index Measure (DSSIM),” National Center for Atmospheric Research Tech. Report NCAR/TN-570+STR, 2021. (DOI: 10.5065/4q49-t141)
+
+A. Pinard, A.H. Baker, D.M. Hammerling, “A statistical approach to obtaining a data structural similarity index cutoff threshold,” National Center for Atmospheric Research Tech. Report NCAR/TN-568+STR, 2021. (DOI: 10.5065/jc2r-5289)
 
 Alexander Pinard, Dorit M. Hammerling, Allison H. Baker. “Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package”, International Workshop on Big Data Reduction (BigData2020), pp. 2699-2707, 2020.
 
