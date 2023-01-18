@@ -4,7 +4,6 @@ date: 2023-01-18T09:19:37-07:00
 type: projects
 image: "images/backgrounds/soccer.jpg"
 category: ["RESEARCH"]
-project_images: ["images/projects/data.png"]
 ---
 
 
@@ -37,7 +36,7 @@ and computing statistics on differences between multiple datasets,
 which enables climate scientists to discover potentially relevant
 compression-induced artifacts in their data.
 
-![Data growth at NCAR](images/projects/data.png) 
+![Data growth at NCAR](/images/projects/data.png) 
 
 **Related publications:**
 
