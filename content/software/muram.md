@@ -1,7 +1,11 @@
 ---
-title: "MURaM"
-date: 2023-01-13T11:21:47-07:00
-layout: staticpage
+title  : "MURaM"
+date   : 2023-01-18T09:17:19-07:00
+type   : software
+tagline: ""
+docs   : ""
+repo   : https://gitlab.gwdg.de/MURaM/MURaM_main
+image  : "images/projects/Eo_circle_orange_blank.svg.png"
 ---
 
 
