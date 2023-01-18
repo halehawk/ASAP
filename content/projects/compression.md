@@ -36,7 +36,7 @@ and computing statistics on differences between multiple datasets,
 which enables climate scientists to discover potentially relevant
 compression-induced artifacts in their data.
 
-![Data growth at NCAR](/images/projects/data.png) 
+![Data growth at NCAR](/images/projects/data.png?width=120px&height=60px) 
 
 **Related publications:**
 
