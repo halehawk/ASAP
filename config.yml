@@ -22,10 +22,6 @@ menu:
       url       : projects
       weight    : 1
     - parent    : what
-      name      : Research
-      url       : research
-      weight    : 2
-    - parent    : what
       name      : Education
       url       : education
       weight    : 3
