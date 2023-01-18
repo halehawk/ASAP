@@ -239,3 +239,98 @@ items  :
     extra: edited by Tjerk P. Straatsma, Katerina B. Antypas, and Timothy J. Williams, CRC Press
     year: 2017
     url: https://www.taylorfrancis.com/chapters/edit/10.1201/b21930-10/preparing-community-earth-system-model-exascale-computing-john-dennis-christopher-kerr-allison-baker-brian-dobbins-kevin-paul-richard-mills-sheri-mickelson-youngsung-kim-raghu-kumar
+
+  - title: Evaluating Lossy Data Compression on Climate Simulation Data within a Large Ensemble
+    authors:  
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - Sheri A. Mickelson
+      - Haiying Xu
+      - Martin B. Stolpe
+      - Phillipe Naveau
+      - Ben Sanderson
+      - Imme Ebert-Uphoff
+      - Savini Samarasinghe
+      - Francesco De Simone
+      - Francesco Carbone
+      - Christian N. Gencarelli
+      - John M. Dennis
+      - Jennifer E. Kay
+      - Peter Lindstrom
+    journal: Geoscientific Model Development
+    extra: 9, pp. 4381-4403
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/4381/2016/
+
+  - title: P-CSI v1.0, an accelerated barotropic solver for the high-resolution ocean model component in the Community Earth System Model v2.0
+    authors:
+      - Xiaomeng Huang
+      - Qiang Tang
+      - Yu-heng Tseng
+      - Yong Hu
+      - Allison H. Baker
+      - Frank O. Bryan
+      - John Dennis
+      - Haohuan Fu
+      - Guangwen Yang
+    journal: Geoscientific Model Development
+    extra: 9, pp. 4209-4225
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/4209/2016/
+
+  - title: Towards characterizing the variability of statistically consistent Community Earth System Model simulations
+    authors:
+      - Daniel J. Milroy
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - John M. Dennis
+      - Sheri A. Mickelson
+      - Elizabeth R. Jessup
+    journal:  Procedia Computer Science (ICCS 2016)
+    extra: Vol. 80, pp. 1589-1600
+    year: 2016
+    url: https://www.sciencedirect.com/science/article/pii/S1877050916309759
+
+
+  - title: Scalability of Classical Algebraic Multigrid for Elasticity to Half a Million Parallel Tasks
+    authors:
+      - Allison H. Baker
+      - Axel Klawonn
+      - Tzanio Kolev
+      - Martin Lanser
+      - Oliver Rheinbach
+      - Ulrike Meier Yang
+    journal: Software for Exascale Computing (SPPEXA 2013-2015)
+    extra: Volume 113 of Lecture Notes in Computer Science, pp. 113-140
+    year: 2016
+    url: https://link.springer.com/chapter/10.1007/978-3-319-40528-5_6
+
+  - title: Evaluating Statistical Consistency in the Ocean Model Component of the Community Earth System Model (pyCECT v2.0)
+    authors: 
+      - A.H. Baker
+      - Y. Hu
+      - D.M. Hammerling
+      - Y. Tseng
+      - X. Hu
+      - X. Huang
+      - F.O. Bryan
+      - G. Yang
+    journal: Geoscientific Model Development
+    extra: 9, pp. 2391-2406
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/2391/2016/
+
+  - title: Fortran Kernel Generation using A Python-based Source Transformation Framework
+    authors:
+      - Youngsung Kim
+      - John Dennis
+      - Christopher Kerr
+      - Raghu Raj Prasanna Kumar
+      - Amogh Simha
+      - Allison Baker
+      - Sheri Mickelson
+    journal: Procedia Computer Science (ICCS 2016)
+    extra: Vol. 80, pp. 1450-1460
+    year: 2016
+    url: https://www.sciencedirect.com/science/article/pii/S1877050916309504
+
