@@ -1,5 +1,5 @@
 ---
-title  : "ASAP"
+title  : "PUMAS"
 date   : 2023-01-04T15:23:00-06:00
 type   : software
 tagline: "Adding GPU Support Into PUMAS"
