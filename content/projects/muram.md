@@ -2,7 +2,7 @@
 title: "Muram"
 date: 2023-01-06T14:08:39-07:00
 type: projects
-image: "images/projects/project-thumb-four.jpg"
+image  : "images/backgrounds/timur-garifov--lf4L-5lowE-unsplash.jpg"
 category: ["RESEARCH"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
