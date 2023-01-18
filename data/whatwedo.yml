@@ -2,9 +2,12 @@ enable  : true
 title   : WHAT WE DO
 items   :
 
-  - name : Projects
-    quote: Add something about the work we do on software 
+  - name : Software Projects
+    quote: Add something about the work we develop on software 
     url  : software
+  - name : Research Projects
+    quote: Add something about the work we reserach on software 
+    url  : projects
   - name : RESEARCH
     quote: Add something about the research we do
     url  : research
