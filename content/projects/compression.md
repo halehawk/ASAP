@@ -1,8 +1,12 @@
 ---
 title: "Compression"
-date: 2023-01-17T11:23:34-07:00
-layout: staticpage
+date: 2023-01-18T09:19:37-07:00
+type: projects
+image: "images/projects/project-thumb-four.jpg"
+category: ["RESEARCH"]
+project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
+
 
 **Summary**
 
