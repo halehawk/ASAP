@@ -8,9 +8,6 @@ items   :
   - name : Research Projects
     quote: Add something about the work we reserach on software 
     url  : projects
-  - name : RESEARCH
-    quote: Add something about the research we do
-    url  : research
   - name : EDUCATION
     quote: Add something about the education we provide
     url  : education
