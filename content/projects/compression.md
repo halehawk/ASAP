@@ -4,6 +4,7 @@ date: 2023-01-18T09:19:37-07:00
 type: projects
 image: "images/backgrounds/soccer.jpg"
 category: ["RESEARCH"]
+
 ---
 
 
@@ -36,7 +37,11 @@ and computing statistics on differences between multiple datasets,
 which enables climate scientists to discover potentially relevant
 compression-induced artifacts in their data.
 
-![Data growth at NCAR](/images/projects/data.png?width=120px&height=60px) 
+{{< figure src="/images/projects/data.png" caption="This figure illustrates data growth at NCAR from July 2018 to February 2022." width="700">}}
+
+**Related software:**
+
+https://github.com/NCAR/ldcpy
 
 **Related publications:**
 
@@ -69,6 +74,3 @@ A.H. Baker, H. Xu, J.M. Dennis, M.N. Levy, D. Nychka, S.A. Mickelson
 
 
 
-**Related software:**
-
-https://github.com/NCAR/ldcpy
