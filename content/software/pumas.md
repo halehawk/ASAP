@@ -14,3 +14,5 @@ Compared to a single compute node (36 CPU cores), using eight GPUs within the sa
 This speedup further increases to 5.4x at 0.25-degree resolution, consistent with the fact that GPU favors larger problem size.
 
 Support for CAM and PUMAS are primarily provided by the U.S. National Science Foundation (NSF).
+
+![OpenACC_OpenMP_Performance_for_PUMAS](/images/projects/openacc_openmp_perf.jpg)
