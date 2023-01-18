@@ -4,7 +4,7 @@ date   : 2023-01-04T15:23:00-06:00
 type   : software
 tagline: "Adding GPU Support Into PUMAS"
 repo   : "https://github.com/ESCOMP/PUMAS"
-image  : "not available yet"
+image  : "images/backgrounds/timur-garifov-26kXlHVtRmc-unsplash.jpg"
 ---
 
 Parameterization of Unified Microphysics Across Scales, short as PUMAS, is the cloud microphysics parameterization used in the Community Atmosphere Model (CAM).
