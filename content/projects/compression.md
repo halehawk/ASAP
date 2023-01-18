@@ -4,7 +4,7 @@ date: 2023-01-18T09:19:37-07:00
 type: projects
 image: "images/projects/project-thumb-four.jpg"
 category: ["RESEARCH"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/data.jpg"]
 ---
 
 
@@ -36,6 +36,8 @@ Our focus has been on better understanding the effects of lossy
 and computing statistics on differences between multiple datasets,
 which enables climate scientists to discover potentially relevant
 compression-induced artifacts in their data.
+
+![Data growth at NCAR](/static/images/projects/data.jpg) 
 
 **Related publications:**
 
