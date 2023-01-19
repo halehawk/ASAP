@@ -279,6 +279,62 @@ Within the `themes/ncar` directory, there are the following directories:
 it should probably be rolled into its own repository and included in this repository as a git
 submodule, which is the canonical way of adding themes to a Hugo site.
 
+## Steps to merge your changes to the main branch on GitHub
+Since multiple team members could work on the different parts of the website at the same time, it is highly recommended that each member generates his/her own work branch and test the changes there first.
+Once the changes look good, he/she can issue a pull request on GitHub later to merge them into the main branch.
+The general steps include:
+
+1. **Clone the ASAP repository on your local machine.**\
+Open your terminal, go to a desired local path like `/Users/username/Download` and type the following command:\
+```
+git clone https://github.com/NCAR/ASAP.git
+```
+**Note:** If you have an issue to clone the ASAP Repo locally, try to add your local public SSH key to your Github profile following the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account.
+
+2. **Generate a work branch.**\
+Once the ASAP Repo has been cloned locally, we could generate our own work branch based on the current main branch with the following commands:
+```
+cd ASAP
+git checkout -b your_desired_branch_name
+```
+**Note:**
+- If you have cloned the Repo before but your main branch is not up to date, type the following command first under the root directory of the Repo before generating your work branch:
+```
+git pull
+```
+- If you have already generated your own work branch before but it does not contain the up-to-date changes in the main branch, type the following commands first under the root directory of the Repo before moving to the next steps:
+```
+git checkout main
+git pull
+git checkout your_desired_branch_name
+git merge main
+```
+Git is smart enough to resolve most conflicts between the main branch and your work branch by itself. But if it could not, Git will mark where the conflicts are in the files and we can resolve them manualy later.
+
+3. **Add your changes.**\
+After a work branch is generated and conflicts against the main branch are resolved, we could then start to add the changes we need.
+For example, we can add a nice background picture to the `static/images/backgrounds` folder or add a new software project description markdown file to the `content/software` folder.
+
+4. **Push your local changes toward remote GitHub Repo.**\
+Once we are done with our changes and they look good to us (e.g., check them through the `hugo serve` command), we could push these local changes to the remote ASAP Repo by the following commands:
+```
+git add /paths_to_your_changed_files
+git commit -m "message to describe what you have done"
+git push
+```
+We could verify whether these changes are pushed successfully to the remote ASAP Repo by visiting `https://github.com/NCAR/ASAP/tree/your_desired_branch_name`.
+
+5. **Issue a pull request to merge your changes into the main branch.**\
+Once your local changes are pushed to the remote ASAP Repo successfully and everything looks good, you could then issue a pull request (PR) to merge your changes into the main branch so that others are able to include them in their work as well.\
+To do so, follow the steps below:
+    - Go to the website: `https://github.com/NCAR/ASAP`.
+    - Click the tab `Pull requests` on the header and you will be re-directed to a new page.
+    - Click the icon `New pull request` on the new page.
+    - Select `main` as `base` and `your_desired_branch_name` as `compare`. Then click the icon `Create pull request` and you will be re-directed to a new page.
+    - Add a meaningful title and helpful information in the description section so that others are able to understand what you have done quickly. Add reviewers if you want someone to review your changes as additional pairs of eyes.
+    - Click the icon `Create pull request` on the new page. Your PR is then ready for review.
+    - Once your PR is reviewed and everyone thinks it is in good shape, you could merge it by clicking the icon `Merge pull request`.
+
 ## Known Issues
 
 - The Hugo server (`hugo serve`) does not seem to properly deal with some of the JS that
