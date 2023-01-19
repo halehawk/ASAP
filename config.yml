@@ -78,5 +78,5 @@ params:
           - name: Software
             url : software
           - name: Research
-            url : research
+            url : projects
 
