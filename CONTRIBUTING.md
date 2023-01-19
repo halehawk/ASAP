@@ -286,21 +286,23 @@ The general steps include:
 
 - **Clone the ASAP repository on your local machine.**\
 Open your terminal, go to a desired local path like `/Users/username/Download` and type the following command:\
-`git clone https://github.com/NCAR/ASAP.git`\
+```
+git clone https://github.com/NCAR/ASAP.git
+```
 **Note:** If you have an issue to clone the ASAP Repo locally, try to add your local public SSH key to your Github profile following the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account.
 
 - **Generate a work branch.**\
-Once the ASAP Repo has been cloned locally, we could generate our own work branch based on the current main branch with the following commands:\
+Once the ASAP Repo has been cloned locally, we could generate our own work branch based on the current main branch with the following commands:
 ```
 cd ASAP
 git checkout -b your_desired_branch_name
 ```
 **Note:**\
-    - If you have cloned the Repo before but your main branch is not up to date, type the following command first under the root directory of the Repo before generating your work branch:\
+1. If you have cloned the Repo before but your main branch is not up to date, type the following command first under the root directory of the Repo before generating your work branch:
 ```
 git pull
 ```
-    - If you have already generated your own work branch before but it does not contain the up-to-date changes in the main branch, type the following commands first under the root directory of the Repo before moving to the next steps:\
+2. If you have already generated your own work branch before but it does not contain the up-to-date changes in the main branch, type the following commands first under the root directory of the Repo before moving to the next steps:
 ```
 git checkout main
 git pull
@@ -314,9 +316,9 @@ After a work branch is generated and conflicts against the main branch are resol
 For example, we can add a nice background picture to the `static/images/backgrounds` folder or add a new software project description markdown file to the `content/software` folder.
 
 - **Push your local changes toward remote GitHub Repo.**\
-Once we are done with our changes and they look good to us (e.g., check them through `hugo serve` locally), we could push these local changes to the remote ASAP Repo by the following commands:\
+Once we are done with our changes and they look good to us (e.g., check them through the `hugo serve` command), we could push these local changes to the remote ASAP Repo by the following commands:
 ```
-git add /path_to_your_changed_files
+git add /paths_to_your_changed_files
 git commit -m "message to describe what you have done"
 git push
 ```
