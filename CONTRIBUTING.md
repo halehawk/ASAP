@@ -279,6 +279,15 @@ Within the `themes/ncar` directory, there are the following directories:
 it should probably be rolled into its own repository and included in this repository as a git
 submodule, which is the canonical way of adding themes to a Hugo site.
 
+## Steps to merge your changes to the main branch on GitHub
+Since multiple team members could work on the different parts of the website at the same time, it is highly recommended that each member generates his/her own work branch and test the changes there first.
+Once the changes look good, he/she can issue a pull request on GitHub later to merge them into the main branch.
+The general steps include:
+
+- Clone the ASAP repository on your local machine.
+Open your terminal, go to a desired local path like `/path_to_download` and type the following command:
+`git clone https://github.com/NCAR/ASAP.git`
+
 ## Known Issues
 
 - The Hugo server (`hugo serve`) does not seem to properly deal with some of the JS that
