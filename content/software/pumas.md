@@ -4,7 +4,7 @@ date   : 2023-01-04T15:23:00-06:00
 type   : software
 tagline: "Adding GPU Support Into PUMAS"
 repo   : "https://github.com/ESCOMP/PUMAS"
-image  : "images/backgrounds/timur-garifov-26kXlHVtRmc-unsplash.jpg"
+image  : "images/backgrounds/robert-sachowski-Ay3veMAK9FY-unsplash.jpg"
 ---
 
 Parameterization of Unified Microphysics Across Scales, short as PUMAS, is the cloud microphysics parameterization used in the Community Atmosphere Model (CAM).
@@ -15,4 +15,4 @@ This speedup further increases to 5.4x at 0.25-degree resolution, consistent wit
 
 Support for CAM and PUMAS are primarily provided by the U.S. National Science Foundation (NSF).
 
-![OpenACC_OpenMP_Performance_for_PUMAS](/images/projects/openacc_openmp_perf.jpg)
+{{< figure src="/images/projects/openacc_openmp_perf.jpg" caption="Performance of OpenACC and OpenMP offload in a PUMAS stand-alone kernel." width="600">}}
