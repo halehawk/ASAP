@@ -2,15 +2,6 @@ enable : true
 title  : PUBLICATIONS & PRESENTATIONS
 image  : images/banners/aurora.jpg
 items  :
-           
-  - title: The Title of the Publication 
-    authors:
-      - author1
-      - author2
-    journal: Journal title 
-    year: 2022
-    extra: pages
-    url: https://it.is.found.here
 
   - title: Importance of Ice Nucleation and Precipitation on Climate with the Parameterization of Unified Microphysics Across Scales version 1 (PUMASv1)
     authors:
@@ -28,3 +19,318 @@ items  :
     year: 2022
     extra: pages
     url: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-980/ 
+
+  - title: Nine time steps -- ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0) 
+    authors:
+      - Daniel Milroy
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - Elizabeth R. Jessup 
+    journal: Geoscientific Model Development
+    year: 2018
+    extra: 11, pp. 679-711
+    url: https://gmd.copernicus.org/articles/11/697/2018/
+
+  - title: Keeping Science on Keel When Software Moves 
+    authors:
+      - Dong Ahn
+      - Allison H. Baker
+      - Michael Bentley
+      - Ian Briggs
+      - Ganesh Gopalakrishnan
+      - Dorit M. Hammerling
+      - Ignacio Laguna
+      - Gregory L. Lee
+      - Daniel J. Milroy
+      - Mariana Vertenstein
+    journal: Communications of the ACM
+    year: 2021
+    extra: Volume 64, Number 2, pp. 66-74
+    url: https://cacm.acm.org/magazines/2021/2/250083-keeping-science-on-keel-when-software-moves/fulltext
+
+  - title: On Preserving Scientific Integrity for Climate Model Data in the HPC Era
+    authors:
+      - Allison H. Baker
+    journal: Computing in Science and Engineering
+    year: 2021
+    extra: vol. 23, pp. 16-24
+    url: https://www.computer.org/csdl/magazine/cs/2021/06/09573307/1xH5FqO6mtO
+
+  - title: Enabling efficient execution of a variational data assimilation application 
+    authors:
+      - J. Dennis
+      - A.H. Baker
+      - B. Dobbins
+      - M. Bell
+      - J. Sun
+      - Y. Kim
+      - T. Chu
+    journal: International Journal of High-Performance Computing Applications 
+    year: 2022
+    extra: 
+    url: https://journals.sagepub.com/doi/abs/10.1177/10943420221119801
+
+
+  - title: Making root cause analysis feasible for large code bases -- a solution approach for a climate model
+    authors:
+      - Daniel J. Milroy
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - Youngsung Kim
+      - Thomas Hauser
+      - Elizabeth R. Jessup
+    journal: Journal title  Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC2019), Phoenix, AZ
+    year: 2019
+    extra: pp. 73-84
+    url: https://dl.acm.org/doi/10.1145/3307681.3325399
+
+
+  - title: Saving Storage in Climate Ensembles -- A Model-Based Stochastic Approach
+    authors:
+      - H. Huang
+      - S. Castruccio
+      - A.H. Baker
+      - M.G. Genton
+    journal: Journal of Agricultural, Biological, and Environmental Statistics
+    year: 2022
+    extra: to appear
+    url: 
+
+
+  - title: An Unprecedented Set of High-Resolution Climate Simulations from the International Laboratory for High-Resolution Earth System Prediction (iHESP)
+    authors:
+      - Ping Chang
+      - et. alA collaborative effort to improve lossy compression for climate data,
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2020
+    extra: pp. 4809 - 4829
+    url:
+    
+  - title: Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code
+    authors:
+      - Daniel J. Milroy
+      - Allison H. Baker
+      - John M. Dennis
+      - Andrew Gettelman
+      - Dorit M. Hammerling
+    journal: IEEE/ACM 3rd International Workshop on Software Correctness for HPC Applications (Correctness2019)
+    year: 2019
+    extra: pp. 44-51
+    url: https://ieeexplore.ieee.org/document/8951035
+
+  - title: What can real information content tell us about compressing climate model data?
+    authors:
+      - H. Sather
+      - A. Pinard
+      - A.H. Baker
+      - D.M. Hammerling
+    journal: 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8)
+    year: 2022
+    extra: to appear
+    url:
+
+  - title: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
+    authors:
+      - Alexander Pinard
+      - Dorit M. Hammerling
+      - Allison H. Baker
+    journal: International Workshop on Big Data Reduction (BigData2020)
+    extra: pp. 2699-2707
+    year: 2020
+    url: https://ieeexplore.ieee.org/document/9378100
+
+  - title: Optimizing High-Resolution Community Earth System Model on a Heterogeneous Many-Core Supercomputing Platform (CESM-HR_sw1.0)
+    authors:
+      - Shaoqing Zhang
+      - et. al
+    journal: Geoscientific Model Development
+    extra: 13, pp. 4809-4829
+    year: 2020
+    url: https://gmd.copernicus.org/articles/13/4809/2020/gmd-13-4809-2020-discussion.html
+
+  - title: Evaluating image quality measures to assess the impact of lossy data compression applied to climate simulation data
+    authors:
+      - A.H. Baker
+      - D.M. Hammerling
+      - T.L. Turton
+    journal:  Computer Graphics Forum
+    extra: 38(3), pp. 517-528
+    year: 2019
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13707
+
+  - title: A Statistical Analysis of Lossily Compressed Climate Model Data
+    authors:
+     - Andrew Poppick
+     - Joseph Nardi
+     - Noah Feldman
+     - Allison H. Baker
+     - Alexander Pinard
+     - Dorit M. Hammerling
+    journal: Computers and Geosciences
+    extra: vol. 145
+    year: 2020
+    url: https://www.sciencedirect.com/science/article/pii/S009830042030580X
+
+  - title: Advancing Data Compression through Noise Detection (News and Views)
+    authors:
+     - D.M. Hammerling
+     - A.H. Baker
+    journal: Nature Computational Science
+    extra: 1, 711–712
+    year: 2021
+    url: https://www.nature.com/articles/s43588-021-00167-z
+
+  - title: A collaborative effort to improve lossy compression for climate data
+    authors:
+      - Dorit M. Hammerling
+      - Allison H. Baker
+      - Alexander Pinard
+      - Peter Lindstrom
+    journal: IEEE/ACM 5th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-5)
+    extra: pp. 16-22
+    year: 2019
+    url: https://ieeexplore.ieee.org/document/8955110
+
+  - title: Ensemble consistency testing using causal connectivity
+    authors:
+      - Dorit Hammerling
+      - Imme Ebert-Uphoff
+      - Allison H. Baker
+    journal: Proceedings of the Eighth International Workshop on Climate Informatics (CI 2018)
+    year: 2018
+    extra:
+    url: https://www.semanticscholar.org/paper/ENSEMBLE-CONSISTENCY-TESTING-USING-CAUSAL-Hammerling-Ebert%E2%80%90Uphoff/5e218ce7d99eada2b2582726db4b119e5d5ae4da
+
+  - title: Quality assurance and error identification for the Community Earth System Model
+    authors:
+      - Allison H. Baker
+      - Daniel J. Milroy
+      - Dorit M. Hammerling
+      - Haiying Xu
+    journal:  First International Workshop on Software Correctness for HPC Applications (Correctness’17)
+    year: 2017
+    extra:
+    url: https://dl.acm.org/doi/10.1145/3145344.3145491
+
+  - title: Toward a Multi-method Approach-- Lossy Data Compression for Climate Simulation Data
+    authors:
+      - A. H. Baker
+      - H. Xu
+      - D. M. Hammerling
+      - S. Li
+      - J. Clyne
+    journal:  ISC High Performance Workshops 2017, Lecture Notes in Computer Science
+    extra: 10524, pp. 30–42
+    year: 2017
+    url: https://link.springer.com/chapter/10.1007/978-3-319-67630-2_3
+
+  - title: Preparing the Community Earth System Model for Exascale Computing
+    authors:
+      - John M. Dennis
+      - Christopher Kerr
+      - Allison H. Baker
+      - Brian Dobbins
+      - Kevin Paul
+      - Richard Mills
+      - Sheri Mickelson
+      - Youngsung Kim
+      - Raghu Kumar
+    journal: Exascale Scientific Applications -- Programming Approaches for Scalability, Performance, and Portability
+    extra: edited by Tjerk P. Straatsma, Katerina B. Antypas, and Timothy J. Williams, CRC Press
+    year: 2017
+    url: https://www.taylorfrancis.com/chapters/edit/10.1201/b21930-10/preparing-community-earth-system-model-exascale-computing-john-dennis-christopher-kerr-allison-baker-brian-dobbins-kevin-paul-richard-mills-sheri-mickelson-youngsung-kim-raghu-kumar
+
+  - title: Evaluating Lossy Data Compression on Climate Simulation Data within a Large Ensemble
+    authors:  
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - Sheri A. Mickelson
+      - Haiying Xu
+      - Martin B. Stolpe
+      - Phillipe Naveau
+      - Ben Sanderson
+      - Imme Ebert-Uphoff
+      - Savini Samarasinghe
+      - Francesco De Simone
+      - Francesco Carbone
+      - Christian N. Gencarelli
+      - John M. Dennis
+      - Jennifer E. Kay
+      - Peter Lindstrom
+    journal: Geoscientific Model Development
+    extra: 9, pp. 4381-4403
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/4381/2016/
+
+  - title: P-CSI v1.0, an accelerated barotropic solver for the high-resolution ocean model component in the Community Earth System Model v2.0
+    authors:
+      - Xiaomeng Huang
+      - Qiang Tang
+      - Yu-heng Tseng
+      - Yong Hu
+      - Allison H. Baker
+      - Frank O. Bryan
+      - John Dennis
+      - Haohuan Fu
+      - Guangwen Yang
+    journal: Geoscientific Model Development
+    extra: 9, pp. 4209-4225
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/4209/2016/
+
+  - title: Towards characterizing the variability of statistically consistent Community Earth System Model simulations
+    authors:
+      - Daniel J. Milroy
+      - Allison H. Baker
+      - Dorit M. Hammerling
+      - John M. Dennis
+      - Sheri A. Mickelson
+      - Elizabeth R. Jessup
+    journal:  Procedia Computer Science (ICCS 2016)
+    extra: Vol. 80, pp. 1589-1600
+    year: 2016
+    url: https://www.sciencedirect.com/science/article/pii/S1877050916309759
+
+
+  - title: Scalability of Classical Algebraic Multigrid for Elasticity to Half a Million Parallel Tasks
+    authors:
+      - Allison H. Baker
+      - Axel Klawonn
+      - Tzanio Kolev
+      - Martin Lanser
+      - Oliver Rheinbach
+      - Ulrike Meier Yang
+    journal: Software for Exascale Computing (SPPEXA 2013-2015)
+    extra: Volume 113 of Lecture Notes in Computer Science, pp. 113-140
+    year: 2016
+    url: https://link.springer.com/chapter/10.1007/978-3-319-40528-5_6
+
+  - title: Evaluating Statistical Consistency in the Ocean Model Component of the Community Earth System Model (pyCECT v2.0)
+    authors: 
+      - A.H. Baker
+      - Y. Hu
+      - D.M. Hammerling
+      - Y. Tseng
+      - X. Hu
+      - X. Huang
+      - F.O. Bryan
+      - G. Yang
+    journal: Geoscientific Model Development
+    extra: 9, pp. 2391-2406
+    year: 2016
+    url: https://gmd.copernicus.org/articles/9/2391/2016/
+
+  - title: Fortran Kernel Generation using A Python-based Source Transformation Framework
+    authors:
+      - Youngsung Kim
+      - John Dennis
+      - Christopher Kerr
+      - Raghu Raj Prasanna Kumar
+      - Amogh Simha
+      - Allison Baker
+      - Sheri Mickelson
+    journal: Procedia Computer Science (ICCS 2016)
+    extra: Vol. 80, pp. 1450-1460
+    year: 2016
+    url: https://www.sciencedirect.com/science/article/pii/S1877050916309504
+
