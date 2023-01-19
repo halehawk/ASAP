@@ -1,7 +1,7 @@
 ---
 title  : "ASAP"
 date   : 2022-05-03T09:23:17-06:00
-type   : software
+type   : education
 tagline: "ASAP Package"
 docs   : "https://geocat.ucar.edu/"
 repo   : "https://github.com/NCAR/geocat-comp"
