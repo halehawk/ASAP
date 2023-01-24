@@ -96,6 +96,69 @@ items  :
     extra: to appear
     url: 
 
+  - title: A new end-to-end workflow for the Community Earth System Model (version 2.0) for the Coupled Model Intercomparison Project Phase 6 (CMIP6)
+    authors:
+      - Sheri Mickelson
+      - Alice Bertini
+      - Gary Strand
+      - Kevin Paul
+      - Eric Nienhouse
+      - John Dennis
+      - Mariana Vertenstein
+    journal: Geoscientific Model Development
+    year: 2020
+    extra: pp. 5567 - 5581
+    url: http://dx.doi.org/10.5194/gmd-13-5567-2020
+
+  - title: THE COMMUNITY EARTH SYSTEM MODEL VERSION 2 (CESM2)
+    authors:
+      - Gokhan Danabasoglu
+      - Jean-Francois Lamarque
+      - Julio Bacmeister  
+      - David A. Bailey  
+      - Alice K.  DuVivier  
+      - James Edwards  
+      - Louisa K. Emmons  
+      - John Fasullo  
+      - Rolando Garcia  
+      - Andrew Gettelman  
+      - Cecile Hannay  
+      - Marika M. Holland  
+      - William G. Large  
+      - Peter H. Lauritzen  
+      - David M. Lawrence  
+      - Jan T. M. Lenaerts  
+      - Keith Lindsay  
+      - William H. Lipscomb  
+      - Michael J. Mills  
+      - Richard Neale  
+      - Keith W. Oleson  
+      - Bette Otto‐Bliesner  
+      - Adam S. Phillips  
+      - William Sacks  
+      - Simone Tilmes  
+      - L. Kampenhout
+      - Mariana Vertenstein  
+      - Alice Bertini  
+      - John Dennis  
+      - Clara Deser  
+      - Chris Fischer  
+      - B. Fox‐Kemper
+      - J. E. Kay
+      - Douglas Kinnison  
+      - P. J. Kushner
+      - V. E. Larson
+      - Matthew C. Long  
+      - Sheri Mickelson  
+      - J. K. Moore
+      - Eris Nienhouse  
+      - L. Polvani
+      - P. J. Rasch
+      - Warren G. Strand  
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2020
+    extra:
+    url: http://dx.doi.org/10.1029/2019MS001916
 
   - title: An Unprecedented Set of High-Resolution Climate Simulations from the International Laboratory for High-Resolution Earth System Prediction (iHESP)
     authors:
@@ -200,6 +263,27 @@ items  :
     year: 2018
     extra:
     url: https://www.semanticscholar.org/paper/ENSEMBLE-CONSISTENCY-TESTING-USING-CAUSAL-Hammerling-Ebert%E2%80%90Uphoff/5e218ce7d99eada2b2582726db4b119e5d5ae4da
+
+  - title: CESM1(WACCM) stratospheric aerosol geoengineering large ensemble project
+    authors:
+     - Simone Tilmes 
+     - Jadwiga H. Richter 
+     - Ben Kravitz 
+     - Douglas G. MacMartin 
+     - Michael J. Mills 
+     - Isla R. Simpson 
+     - Anne S. Glanville 
+     - John T. Fasullo 
+     - Adam S. Phillips 
+     - Jean-Francois Lamarque 
+     - Joseph Tribbia 
+     - James Edwards 
+     - Sheri Mickelson 
+     - Siddhartha Ghosh 
+    journal: Bulletin of the American Meteorological Society
+    year: 2018
+    extra: pp. 2361-2371
+    url: http://dx.doi.org/10.1175/BAMS-D-17-0267.1
 
   - title: Quality assurance and error identification for the Community Earth System Model
     authors:
