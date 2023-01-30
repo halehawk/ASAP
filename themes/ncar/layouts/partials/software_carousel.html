@@ -1,6 +1,8 @@
 <div id="carouselIndicators" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-  {{ range $index, $element := (where $.Site.RegularPages "Type" "software") }}
+  {{ $pages := where $.Site.RegularPages "Type" "software"  }}
+  {{ $pages = $pages | union (where $.Site.RegularPages "Type" "projects")  }}
+  {{ range $index, $element :=  $pages }} 
     {{ if (eq $index 0) }}
     <div class="carousel-item active">
     {{ else }}
