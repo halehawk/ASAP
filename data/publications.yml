@@ -1,5 +1,5 @@
 enable : true
-title  : PUBLICATIONS & PRESENTATIONS
+title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
 
@@ -418,3 +418,125 @@ items  :
     year: 2016
     url: https://www.sciencedirect.com/science/article/pii/S1877050916309504
 
+  - title: What can we learn about climate model runs from their causal signatures
+    authors:
+      - Dorit Hammerling
+      - Allison H. Baker
+      - Imme Ebert-Uphoff
+    journal: Proceedings of the Fifth International Workshop on Climate Informatics (CI 2015)
+    extra: J. G. Dy, J. Emile-Geay, V. Lakshmanan, Y. Liu (Eds.)
+    year: 2015
+    url: https://www.engr.colostate.edu/~iebert/PAPERS/CI2015_paper_8.pdf
+
+  - title: A new ensemble-based consistency test for the community earth system model (pyCECT v1.0)
+    authors:
+      - A.H. Baker
+      - D.M. Hammerling
+      - M.N. Levy
+      - H. Xu
+      - J.M. Dennis
+      - B.E. Eaton
+      - J. Edwards
+      - C. Hannay
+      - S.A. Mickelson
+      - R.B. Neale
+      - D. Nychka
+      - J. Shollenberger
+      - J. Tribbia
+      - M. Vertenstein
+      - D. Williamson
+    journal: Geoscientific Model Development
+    extra: 8, pp. 2829–2840
+    year: 2015
+    url: https://gmd.copernicus.org/articles/8/2829/2015/
+
+  - title: Improving the Scalability of the Ocean Barotropic Solver in the Community Earth System Model
+    authors:
+      - Yong Hu
+      - Xiaomeng Huang
+      - Allison H. Baker
+      - Yu-heng Tseng
+      - Frank O. Bryan
+      - John M. Dennis
+      - Guangwen Yang
+    journal: Proceedings of the International Conference for High Performance Computing, Networking, and Storage, (SC ’15)
+    extra: pp. 42:1-42:12
+    year: 2015
+    url: https://dl.acm.org/doi/10.1145/2807591.2807596
+
+  - title: A new synoptic scale resolving global climate simulation using the Community Earth System Model
+    authors:
+      - J. Small
+      - J. Bacmeister
+      - D. Bailey
+      - A. Baker
+      - S. Bishop
+      - F. Bryan
+      - J. Caron
+      - J. Dennis
+      - P. Gent
+      - H. Hsu
+      - M. Jochum
+      - D. Lawrence
+      - E. Muñoz
+      - P. DiNezio
+      - T. Scheitlin
+      - R. Tomas
+      - J. Tribbia
+      - Y. Tseng
+      - M. Vertenstein
+    journal: Journal of Advances in Modeling Earth Systems
+    extra: 6, pp. 1065-1094
+    year: 2014
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014MS000363
+
+  - title: A Methodology for Evaluating the Impact of Data Compression on Climate Simulation Data
+    authors:
+      - A.H. Baker
+      - H. Xu
+      - J.M. Dennis
+      - M.N. Levy
+      - D. Nychka
+      - S.A. Mickelson
+      - J. Edwards
+      - M. Vertenstein
+      - A. Wegener
+    journal: Proc. of the 23rd International ACM Symposium on High Performance Parallel and Distributed Computing (HPDC14)
+    extra: pp. 203-214
+    year: 2014
+    url: https://dl.acm.org/doi/10.1145/2600212.2600217 
+
+  - title: Examining Variations in the Optimal Compression Level of Spatiotemporal Datasets Determined Using the Data Structural Similarity Index Measure (DSSIM)
+    authors:
+      - A. Pinard
+      - A.H. Baker
+      - D.M. Hammerling
+    journal: National Center for Atmospheric Research Tech. Report
+    extra: NCAR/TN-570+STR
+    year: 2021
+    url: https://opensky.ucar.edu/islandora/object/technotes%3A592/datastream/PDF/view
+
+  - title: Characterizing Internal Variability and Detecting Changes in Model and Computational Parameters in a Century-Long CESM Ensemble
+    authors:
+      - Z. Wang
+      - C. Peterson
+      - Q. Zhou
+      - R. Subramanian
+      - J. Kunke
+      - A. Baker
+      - E. Moyer
+      - D. Hammerling
+    journal: National Center for Atmospheric Research Tech. Report
+    extra: NCAR/TN-569+STR
+    year: 2021
+    url: https://opensky.ucar.edu/islandora/object/technotes%3A591
+
+  - title: A statistical approach to obtaining a data structural similarity index cutoff threshold
+    authors:     
+      - A. Pinard
+      - A.H. Baker
+      - D.M. Hammerling
+    journal: National Center for Atmospheric Research Tech. Report
+    extra: NCAR/TN-568+STR
+    year: 2021
+    url: https://opensky.ucar.edu/islandora/object/technotes%3A590
