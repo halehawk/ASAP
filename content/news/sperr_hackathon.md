@@ -1,5 +1,5 @@
 ---
-title: "Sperr_hackathon"
+title: "SPERR Hackathon"
 author: ""
 date: 2023-01-31T13:42:48-07:00
 type: news
