@@ -3,8 +3,8 @@ title: "Just-in-time(JIT) compilation on GPU for atmospheric chemistry"
 author: "Jian Sun"
 date: 2023-01-30T10:45:59-06:00
 type: news
-image: images/blog/timur-garifov--HlaGdSiC-g-unsplash.jpg
-feature_image: images/blog/timur-garifov--HlaGdSiC-g-unsplash.jpg
+image: images/blog/timur-garifov-26kXlHVtRmc-unsplash.jpg
+feature_image: images/blog/timur-garifov-26kXlHVtRmc-unsplash.jpg
 layout: staticpage
 ---
 
