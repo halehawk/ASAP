@@ -17,7 +17,7 @@ items  :
       - John Dennis
     journal: Geoscientific Model Development Discussion
     year: 2022
-    extra: pages
+    extra:
     url: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-980/ 
 
   - title: Nine time steps -- ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0) 
@@ -540,3 +540,17 @@ items  :
     extra: NCAR/TN-568+STR
     year: 2021
     url: https://opensky.ucar.edu/islandora/object/technotes%3A590
+
+  - title: Enabling efficient execution of a variational data assimilation application
+    authors:
+      - John M Dennis
+      - Allison H Baker
+      - Brian Dobbins
+      - Michael M Bell
+      - Jian Sun
+      - Youngsung Kim
+      - Ting-Yu Cha
+    journal: The International Journal of High Performance Computing Applications
+    extra:
+    year: 2022
+    url: https://doi.org/10.1177/109434202211198 
