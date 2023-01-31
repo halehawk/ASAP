@@ -3,22 +3,10 @@ title  : SIParCS PROJECTS
 image  : images/banners/aurora.jpg
 items  :
        
-  - title: "Project Title"
-    student: StudentName1
-    university: University
-    url: "https://www2.cisl.ucar.edu/projectlink"
-    github: "@studentgithubhandle"
-    mentors:
-     - mentor1
-     - mentor2 
-     - mentor3
-    year: 2022
-
   - title: "Increasing the portability and reproducibility of a scientific application using containers and Spack"
     student: Joe Ammatelli
     university: University of Washington
     url: "https://www2.cisl.ucar.edu/siparcs-2022-joe-ammatelli"
-    email: "jamma@uw.edu"
     mentors:
      - Jian Sun
      - Brian Vanderwende

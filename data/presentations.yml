@@ -1,0 +1,20 @@
+enable : true
+title  : PRESENTATIONS
+image  : images/banners/peaks.jpg
+items  :
+
+  - title: My Excellent Talk
+    authors:
+      - Allison Baker
+    conference: CESM Workshop
+    year: 2022
+    url: https://www.cesm.ucar.edu/events/workshops/cesm/2022 
+    extra: pdf link
+
+  - title: Enabling the execution of PUMAS on GPUs
+    authors:
+      - Jian Sun
+    conference: 27th Annual CESM Workshop  
+    year: 2022
+    url: https://www.cesm.ucar.edu/events/workshops/cesm/2022
+    extra: https://www.youtube.com/watch?v=u9vYMNjP-Ds&list=PLsqhY3nFckOF18iztVbP69x0gw6Vi77KY&index=7&t=5578s

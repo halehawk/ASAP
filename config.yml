@@ -9,10 +9,10 @@ menu:
   nav:
     - name      : About
       url       : about
-      weight    : 1
+      weight    : 10
     - identifier: what
       name      : What we do
-      weight    : 2
+      weight    : 20
     - parent    : what
       name      : Software Projects
       url       : software
@@ -25,12 +25,20 @@ menu:
       name      : Education
       url       : education
       weight    : 3
-    - name      : Publications & Presentations
+    - identifier: pp   
+      name      : Publications & Presentations
+      weight    : 30
+    - parent    : pp
+      name      : Publications
       url       : publications
-      weight    : 3
-    - identifier: collaborators
+      weight    : 10
+    - parent    : pp
+      name      : Presentations
+      url       : presentations
+      weight    : 20
+    - identifier : collaborators
       name      : Collaborators
-      weight    : 4
+      weight    : 40
     - parent    : collaborators
       name      : SIParCS
       url       : siparcs
@@ -70,7 +78,7 @@ params:
         - link:
           - name: About us
             url : about
-          - name: Publications & Presentations
+          - name: Publications
             url : publications
           - name: Internships
             url : siparcs
