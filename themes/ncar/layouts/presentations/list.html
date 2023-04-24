@@ -19,7 +19,7 @@
       <div class="col-12">
         <div class="site-presentations-items">
 	    <div>
-	       <p>presentations are the best</p>
+	       <p>Selected presentations ... </p>
 	    </div>  
 	  {{ $year := "" }}
           {{ range $item := sort .items "year" "desc" }}
@@ -33,7 +33,8 @@
           <ul>
           {{   end }}
             {{ if .url }}<a href="{{ .url }}">{{ end }}
-            <li>{{ delimit .authors ", " }} "<em>{{ .title |  }}</em>" <b>{{ .conference }}</b>, ({{ .year }}){{ if .extra }}, {{ .extra }}{{ else }}{{ end }}.</li>
+            <li>{{ delimit .authors ", " }} "<em>{{ .title |  }}</em>",
+  <b>{{ .conference }}</b>, {{.month}}, {{ .year }}{{ if .extra }}, {{ .extra }}{{ else }}{{ end }}.</li>
             {{ if .url }}</a>{{ end }}
           {{ end }}
         </div>
