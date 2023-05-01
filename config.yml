@@ -59,7 +59,7 @@ params:
   news:
     enable: true
     title: RECENT NEWS
-    subtitle: Some of our most recent news
+    subtitle: 
 
   projects:
     enable: true
