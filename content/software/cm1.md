@@ -4,7 +4,7 @@ date   : 2022-05-03T09:23:51-06:00
 type   : software
 tagline: "Adding GPU Support Into CM1"
 repo   : "https://github.com/george-bryan/CM1/tree/gpu-opt"
-image  : "images/backgrounds/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
+image  : "images/projects/tornadoCM1.png"
 ---
 The Cloud Model version 1 is a mesoscale atmospheric model that
 allows for idealized studies of atmospheric phenomena. A new
@@ -19,7 +19,7 @@ scheme and the message-passing algorithms used by the lagrangian
 microphysics were necessary to enable efficient execution. We focus
 on a configuration of CM1 that will be used to investigate the impact
 of oceanic sea spray on the atmospheric boundary layer within
-a hurricane. We observe a factor of 6.6x reduction in time to the
+a hurricane. We observe a factor of 2.9x reduction in time to the
 solution when between eight NVIDIA A100 GPUs and eight AMD
 Eypc based compute nodes
 

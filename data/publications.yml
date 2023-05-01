@@ -15,10 +15,10 @@ items  :
       - Jiang Zhu
       - Trude Storelvmo
       - John Dennis
-    journal: Geoscientific Model Development Discussion
-    year: 2022
+    journal: Geoscientific Model Development
+    year: 2023
     extra:
-    url: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-980/ 
+    url: https://doi.org/10.5194/gmd-16-1735-2023
 
   - title: Nine time steps -- ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0) 
     authors:
@@ -56,20 +56,15 @@ items  :
     extra: vol. 23, pp. 16-24
     url: https://www.computer.org/csdl/magazine/cs/2021/06/09573307/1xH5FqO6mtO
 
-  - title: Enabling efficient execution of a variational data assimilation application 
+  - title: A scalable and efficient workflow for compressing high-resolution Earth system model data
     authors:
-      - J. Dennis
-      - A.H. Baker
-      - B. Dobbins
-      - M. Bell
-      - J. Sun
-      - Y. Kim
-      - T. Chu
-    journal: International Journal of High-Performance Computing Applications 
-    year: 2022
-    extra: 
-    url: https://journals.sagepub.com/doi/abs/10.1177/10943420221119801
-
+      - Haiying Xu
+      - Richard D. Loft
+      - Kevin Paul
+      - Anderson Banihirwe
+    journal: EarthCube Annual Meeting 2021
+    year: 2021
+    url: https://drive.google.com/drive/folders/1HygXg7vCk7EaJTTpSSXwyzeKKOzBzGxa  
 
   - title: Making root cause analysis feasible for large code bases -- a solution approach for a climate model
     authors:
@@ -79,7 +74,7 @@ items  :
       - Youngsung Kim
       - Thomas Hauser
       - Elizabeth R. Jessup
-    journal: Journal title  Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC2019), Phoenix, AZ
+    journal: Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC2019), Phoenix, AZ
     year: 2019
     extra: pp. 73-84
     url: https://dl.acm.org/doi/10.1145/3307681.3325399
@@ -95,6 +90,15 @@ items  :
     year: 2022
     extra: to appear
     url: 
+  
+  - title: Pangeo benchmarking analysis:Object storage vs. POSIX file system
+    authors:
+      - Haiying Xu
+      - Kevin Paul
+      - Anderson Banihirwe
+    journal: 5th International Parallel Data Systems Workshop
+    year: 2020
+    url: http://www.pdsw.org/pdsw20/papers/ws_pdsw_S3_P2_Xu.pdf
 
   - title: A new end-to-end workflow for the Community Earth System Model (version 2.0) for the Coupled Model Intercomparison Project Phase 6 (CMIP6)
     authors:
@@ -168,7 +172,17 @@ items  :
     year: 2020
     extra: pp. 4809 - 4829
     url:
-    
+   
+  - title: Using cloud-friendly data format in Earth system models applications
+    authors:
+      - Haiying Xu
+      - Weile Wei
+      - John Dennis
+      - Kevin Paul
+    journal: American Geophysical Union, Fall Meeting 2019
+    year: 2019
+    url: https://ui.adsabs.harvard.edu/abs/2019AGUFMIN13C0728X/abstract
+ 
   - title: Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code
     authors:
       - Daniel J. Milroy
@@ -284,6 +298,17 @@ items  :
     year: 2018
     extra: pp. 2361-2371
     url: http://dx.doi.org/10.1175/BAMS-D-17-0267.1
+
+  - title: Progress with lossy compression of data from the Community Earth System Model
+    authors:
+      - Haiying Xu
+      - Allison H. Baker
+      - Shaomeng Li
+      - Dorit Hammerling
+      - John P. Clyne
+    journal: American Geological Union Fall meeting 2017
+    year: 2017
+    url: https://ui.adsabs.harvard.edu/abs/2017AGUFMIN11B0034X/abstract
 
   - title: Quality assurance and error identification for the Community Earth System Model
     authors:
