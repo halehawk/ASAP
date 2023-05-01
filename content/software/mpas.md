@@ -5,7 +5,7 @@ type   : software
 tagline: "MPAS OpenACC"
 docs   : "https://geocat.ucar.edu/"
 repo   : "https://github.com/MPAS-Dev/MPAS-Model"
-image  : "images/backgrounds/timur-garifov--lf4L-5lowE-unsplash.jpg"
+image  : "images/backgrounds/Earth_grid.jpeg"
 ---
 
 
