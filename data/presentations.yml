@@ -26,4 +26,60 @@ items  :
     conference: 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8)
     month: November
     year: 2022
+    url:
+
+  - title: Lossy Data Compression and the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: European Geophysical Union (EGU) General Assembly, 
+    month: May
+    year: 2022
+    url: 
+
+  - title: Lossy Data Compression and the Community Earth System ModelQuality assurance and error identification for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: First International Workshop on Software Correctness for HPC Applications, SC’17 
+    month: November
+    year: 2017
+    url: 
+
+  - title: Evaluating lossy compression in climate models
+    authors:
+     - Allison Baker
+    conference: Workshop on exploiting data compression for climate science workflows in the exascale era
+    month: February
+    year: 2022
+    url: 
+
+  - title: Evaluating lossy compression in climate modelsIs that answer ‘right’?  Quality assurance for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: SIAM Conference on Applied Linear Algebra
+    month: May
+    year: 2021
+    url: 
+
+  - title: Is that a right answer? Evaluating correctness in ~2 million lines of a climate model code
+    authors:
+     - Allison Baker
+    conference: University of Colorado, Computer Science Department Colloquium
+    month: November
+    year: 2019
+    url:
+    
+  - title: Optimizing Data Compression for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: AGU Fall Meeting
+    month: December
+    year: 2019
+    url:
+    
+  - title: Statistical Consistency Testing for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: SIAM Conference on Mathematics of Planet Earth
+    month: September
+    year: 2018
     url: 

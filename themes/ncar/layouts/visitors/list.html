@@ -17,10 +17,14 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="site-visitors-items">
+      <div class="site-visitors-items">
+	 <p> <a
+  href="https://www2.cisl.ucar.edu/outreach/cvp">Learn more
+  about the CISL Visitor Program.</a></p>
             <div >
-              <p>Say something here about ASAP students and visitors</p> 
-            </div> 
+              <p>A few of our visitors in ASAP:</p> 
+	    </div>
+	   
           
           {{ $year := "" }}
           {{ range $item := sort .items "year" "desc" }}
@@ -34,7 +38,7 @@
           <ul>
           {{   end }}
             {{ if .url }}<a href="{{ .url }}">{{ end }}
-            <li><b>{{ .student |  }}</b> <em>{{ .github |  }}</em> {{ .university |  }} "<em>{{ .title | }}</em>" <b>{{ delimit .mentors ", " }}</b>, ({{ .year }}){{ if .extra }}, {{ .extra }}{{ else }}{{ end }}.</li>
+            <li><b>{{ .student |  }}</b> <em>{{ .github |  }}</em> {{ .university |  }} <em>{{ .title | }}</em> <b>{{ delimit .mentors ", " }}</b>, {{ if .extra }}, {{ .extra }}{{ else }}{{ end }}.</li>
             {{ if .url }}</a>{{ end }}
           {{ end }}
         </div>
