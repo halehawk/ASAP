@@ -3,12 +3,12 @@ title   : WHAT WE DO
 items   :
 
   - name : Software Projects
-    quote: Add something about the work we develop on software 
+    quote: 
     url  : software
   - name : Research Projects
-    quote: Add something about the work we reserach on software 
+    quote:  
     url  : projects
   - name : EDUCATION
-    quote: Add something about the education we provide
+    quote: 
     url  : education
 
