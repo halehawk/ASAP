@@ -4,7 +4,7 @@ date   : 2023-02-24T10:42:21-07:00
 type   : software
 tagline: "EarthWorks:  Climate Modeling at Storm-Resolving Resolutions"
 repo   : "https://github.com/EarthWorksOrg/EarthWorks"
-image  : static/images/projects/earthworks_logo.png
+image  : images/backgrounds/earthworks_logo.png
 ---
 
 EarthWorks’ goal is to develop a version of an Earth System Model (ESM) model that can run with a grid spacing of just a few kilometers. That’s a significant advancement, considering CESM typically is used with 25- to 100-kilometer grid spacing. The finer resolution will be able to render important geographical features, such as individual large mountains, that play an important role in weather and climate. Coastlines, lakes, and vegetation also will be better represented, and many complex chemical and physical processes will be simulated in a more natural way.
