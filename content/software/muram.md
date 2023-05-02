@@ -5,7 +5,7 @@ type   : software
 tagline: ""
 docs   : ""
 repo   : https://gitlab.gwdg.de/MURaM/MURaM_main
-image  : "images/projects/Eo_circle_orange_blank.svg.png"
+image  : "images/projects/Intensity_2km.png"
 ---
 
 
