@@ -17,7 +17,10 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="site-publications-items">
+      <div class="site-publications-items">
+	<div>
+	       <p>Selected publications: </p>
+	    </div> 
           {{ $year := "" }}
           {{ range $item := sort .items "year" "desc" }}
           {{   $is_new_year := ne $year $item.year }}

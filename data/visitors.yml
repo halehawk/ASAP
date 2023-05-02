@@ -2,14 +2,59 @@ enable : true
 title  : Visitors
 image  : images/banners/aurora.jpg
 items  :
-       
-  - title: "Project Title"
-    student: StudentName1
-    university: University
-    url: "https://www2.cisl.ucar.edu/projectlink"
-    github: "@studentgithubhandle"
+
+  - title: 
+    student: Teo Price-Broncucia,
+    university:  University of Colorado at Boulder,
     mentors:
-     - mentor1
-     - mentor2 
-     - mentor3
-    year: 2022
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (CSM)
+     - Rebecca Morrison (CU - thesis advisor)
+    year: 2023
+
+
+  - title: 
+    student: Alex Pinard,
+    university: Colorado School of Mines,
+    mentors:
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (CSM - thesis advisor)
+    year: 2020-present
+
+  - title: 
+    student: Lewis Blake,
+    university: Colorado School of Mines,
+    mentors:
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (CSM - thesis advisor)
+    year: 2021
+
+  - title: "Climate Model Quality Assurance through
+Consistency Testing and Error Source
+Identification,"
+    student: Daniel Milroy,
+    university: University of Colorado at Boulder,
+    mentors:
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (NCAR)
+     - Liz Jessup (CU - thesis advisior)
+    year: 2015-2018
+    
+  - student: Mathew Edwards,
+    university: University of Newcastle,
+    mentors:
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (NCAR)
+    year: 2015
+
+  - title:
+    student: Mathew Edwards,
+    university: University of Newcastle,
+    mentors:
+     - Allison Baker (NCAR)
+     - Dorit Hammerling (NCAR)
+    year: 2016
+
+
+
+ 
