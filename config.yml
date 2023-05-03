@@ -58,12 +58,12 @@ params:
 
   news:
     enable: true
-    title: RECENT NEWS
+    title: Recent News
     subtitle: 
 
   projects:
     enable: true
-    title: RECENT PROJECTS
+    title: Recent Projects
     subtitle: Some of our most recent projects
 
   footer:
