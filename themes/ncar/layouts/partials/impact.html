@@ -1,0 +1,86 @@
+{{ with .Site.Data.impact }}
+  {{ if .enable }}
+
+  <section class="site-counter2" id="counter2" style="background-image: url('{{ .background_image }}');">
+    <div class="container">
+      
+      <span class="site-collab-title">
+        <h2> {{ .heading | safeHTML }} </h2>
+      </span> 
+      <table class="table">
+        <tr>
+          <th class="site-counter2-item-number">Code name</th>
+          <th class="site-counter2-item-number">Description</th>
+          <th class="site-counter2-item-number">Impacts</th>
+        </tr>
+        <tr>
+          <td>Community Atmosphere Model</td>
+          <td>CAM</td>
+          <td>dynamic core</td>
+        </tr>
+	<tr>
+	  <td>CESM1, CESM2</td>
+          <td>Community Earth System Models 1 and 2</td>
+          <td>lots of stuff</td>
+        </tr>
+        <tr>
+          <td>CICE</td>
+          <td>The CICE Consortium Model for Sea-Ice Development</td>
+          <td>load balancing?</td>
+	</tr>
+	<tr>
+          <td>CLM</td>
+          <td>Community Land Model</td>
+          <td>no clue?</td>
+        </tr>
+	<tr>
+          <td>CM1</td>
+          <td>Cloud Model 1</td>
+          <td>code optimization via GPU port</td>
+        </tr>
+        <tr>
+          <td>MPAS-A</td>
+          <td>Model for Prediction Across Scales Atmosphere</td>
+          <td></td>
+	</tr>
+	<tr>
+          <td>MURaM</td>
+          <td>MPS/University of Chicago Radiative MHD</td>
+          <td>code optimization via GPU port</td>
+	</tr>
+	<tr>
+          <td>MUSICA</td>
+          <td>Multi-Scale Infrastructure for Chemistry Modeling </td>
+          <td>GPU stuff, prep for exascale?</td>
+        </tr>
+	 <tr>
+          <td>POP</td>
+          <td>Parallel Ocean Program</td>
+          <td></td>
+        </tr>
+	<tr>
+          <td>PUMAS</td>
+          <td>Model for Prediction Across Scales Atmosphere</td>
+          <td></td>
+        </tr>
+	<tr>
+          <td>RRTMBP</td>
+          <td>No clue</td>
+          <td>yup</td>
+        </tr>
+	<tr>
+          <td>SAMURAI</td>
+          <td>Spline Analysis at Mesoscale Utilizing Radar and Aircraft Instrumentation</td>
+          <td>GPU port, improved nonlinear solver</td>
+	</tr>
+	<tr>
+          <td>3Dynamo</td>
+          <td>Ionospheric Electrodynamics Modeling</td>
+          <td>work in progress</td>
+        </tr>
+      </table>
+  </section>
+
+  {{ end }}
+{{ end }}
+
