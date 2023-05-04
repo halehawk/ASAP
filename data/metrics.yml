@@ -1,18 +1,19 @@
 enable: true
 heading: Impacts of our work
 counter_item:
-- title: Publications (since 2014)
+- title: Publications
   number: 38
   url: publications
 
-- title: Presentations (since 2017)
+- title: Presentations 
   number: 10
   url: presentations
 
-- title: SIParCS Interns (since 2018)
+- title: SIParCS Interns 
   number: 17
   url: siparcs
 
-- title: Visitors (since 2015)
+- title: Visitors
   number: 5
   url: visitors
+
