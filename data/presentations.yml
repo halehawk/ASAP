@@ -12,6 +12,14 @@ items  :
     url: https://www.cesm.ucar.edu/events/workshops/cesm/2022 
     extra: 
 
+  - title: Addressing the Software Engineering Challenges within the EarthWorks Project
+    authors:
+      - Sheri Mickelson
+    conference: World Climate Research Programme (WCRP) Workshop
+    month: October
+    year: 2022
+    url: https://www.youtube.com/watch?v=UvsptUVi-eM&list=PLsqhY3nFckOHU-L6lxgf-oEgA-Eus_bA3&index=4&t=1260s 
+
   - title: Enabling the execution of PUMAS on GPUs
     authors:
       - Jian Sun
