@@ -66,6 +66,14 @@ items  :
     conference: SIAM Conference on Applied Linear Algebra
     month: May
     year: 2021
+    url:
+
+  - title: NCAR's CMIP6 Efforts 
+    authors:
+     - Sheri Mickelson
+    conference: International Computing in the Atmospheric Sciences symposium 2019 
+    month: September
+    year: 2019
     url: 
 
   - title: Is that a right answer? Evaluating correctness in ~2 million lines of a climate model code
@@ -90,4 +98,21 @@ items  :
     conference: SIAM Conference on Mathematics of Planet Earth
     month: September
     year: 2018
+    url:
+
+  - title: A new workflow for CESM to address CMIP6 challenges
+    authors:
+     - Sheri Mickelson
+    conference: 3rd ENES Workshop on Workflows
+    month: September
+    year: 2018
+    url:
+
+  - title: Parallel Python tools for handling big climate data 
+    authors:
+     - Sheri Mickelson
+    conference: 2018 Workshop on Developing Python Frameworks for Earth System Sciences
+    month: October
+    year: 2018
     url: 
+
