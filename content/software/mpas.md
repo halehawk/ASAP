@@ -9,9 +9,7 @@ image  : "images/backgrounds/timur-garifov--lf4L-5lowE-unsplash.jpg"
 ---
 
 
-Model for Prediction Across Scale (MPAS)
-
-, established in 2019, is the 
+Model for Prediction Across Scale (MPAS), established in 2019, is the 
 project with several software tools developed in Python in order to lead the 
 software engineering efforts of the National Center for Atmospheric Research 
 (NCAR) Computational and Information Systems Lab (CISL)’s “Pivot to Python” 

@@ -21,6 +21,6 @@ on a configuration of CM1 that will be used to investigate the impact
 of oceanic sea spray on the atmospheric boundary layer within
 a hurricane. We observe a factor of 2.9x reduction in time to the
 solution when between eight NVIDIA A100 GPUs and eight AMD
-Eypc based compute nodes
+Epyc based compute nodes
 
 CM1 is a product of the National Center for Atmospheric Research’s MMM Lab. Support for CM1 is provided by the U.S. National Science Foundation 
