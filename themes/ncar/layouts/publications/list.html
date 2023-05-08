@@ -22,7 +22,9 @@
 	       <p>Selected publications: </p>
 	    </div> 
           {{ $year := "" }}
+          {{ $.Scratch.Set "counter" 0 }}
           {{ range $item := sort .items "year" "desc" }}
+          {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
           {{   $is_new_year := ne $year $item.year }}
           {{   if $is_new_year }}
           {{     if ne $year "" }}
@@ -36,6 +38,8 @@
             <li>{{ delimit .authors ", " }} "<em>{{ .title |  }}</em>" <b>{{ .journal }}</b>,{{ if .extra }} {{ .extra }}{{ else }}{{ end }} ({{ .year }}).</li>
             {{ if .url }}</a>{{ end }}
           {{ end }}
+             {{ $counter := $.Scratch.Get "counter"}}
+             I am the number {{$counter}} in loop!
         </div>
       </div>
     </div>

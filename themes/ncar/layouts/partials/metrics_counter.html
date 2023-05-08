@@ -14,6 +14,8 @@
             {{ if isset . "url" }}
               <span class="site-counter-item-title"><a href="{{ .url }}">{{ .title }}</a></span>
               <h3 class="site-counter-item-number"><a href="{{ .url }}">{{ .number }}</a></h3>
+               {{ $pubcnt := $.Scratch.Get "counter"}}
+               I am the number {{$pubcnt}} in loop!
             {{ else }}
               <span class="site-counter-item-title">{{ .title }}</span>
               <h3 class="site-counter-item-number">{{ .number }}</h3>

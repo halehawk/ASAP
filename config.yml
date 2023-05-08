@@ -53,6 +53,7 @@ menu:
 
 # Site Params
 params:
+  pubcnt: ""
   name: ASAP
   dateFormat: "26 FEB 1994"
   description: "The ASAP (Application Scalability And Perfromance) section at the National Center for Atmospheric Research (NCAR)."
