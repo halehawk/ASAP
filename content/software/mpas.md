@@ -9,23 +9,8 @@ image  : "images/backgrounds/Earth_grid.jpeg"
 ---
 
 
-Model for Prediction Across Scale (MPAS)
+Model for Prediction Across Scale (MPAS) 
+Model for Prediction Across Scale is global meteorology and climate simulation model which consists of various components like atmosphere, ocean, sea-ice, land model along with appropriate physics packages to model various quantities of earth system.  The Model for Prediction Across Scales - Atmosphere (MPAS-A) code is the primary atmospheric simulation code inside MPAS.  
+In this paper, we present the details about MPAS-A code, details about various resolutions, challenges and strategies to accelerate the dynamical core of MPAS-A using a directive-based programming model (OpenACC) in order to achieve performance portability and maintain a single source code for both CPUs and GPUs execution. 
 
-, established in 2019, is the 
-project with several software tools developed in Python in order to lead the 
-software engineering efforts of the National Center for Atmospheric Research 
-(NCAR) Computational and Information Systems Lab (CISL)’s “Pivot to Python” 
-initiative.
-
-GeoCAT essentially aims at creating scalable data analysis and visualization 
-tools for Earth System Science data to serve the geosciences community in the 
-scientific Python ecosystem. 
-
-GeoCAT tools are built upon the cornerstone technologies in the Pangeo stack 
-such as Xarray, Dask, and Jupyter Notebooks. Novel research and development 
-is conducted for analyzing/visualizing structured as well as unstructured 
-grid data from various research fields such as climate, weather, atmosphere, 
-ocean, etc. In addition, some of the functionalities in the GeoCAT stack are 
-inspired/reimplemented from NCL (NCAR Command Language).
-
-Support for GeoCAT is provided by the U.S. National Science Foundation.
+And finally the results of the porting efforts are discussed in the results section which includes the performance comparison of MPAS-A simulation at 120km, 60km, 30km, 15km, 10km, 5km, 3km. On an average, MPAS-A dynamical core performance with the optimized routines achieves 3.7x speedup using a NVIDIA V100 GPU over a fully subscribed 36-core Intel Broadwell CPU node. In other words, the performance of the dynamical core on a single NVIDIA V100 GPU is equivalent to 130 Broadwell cores. We also measure parallel performance on up to 4200 GPUs and present weak and strong scaling results
