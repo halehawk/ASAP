@@ -12,6 +12,14 @@ items  :
     url: https://www.cesm.ucar.edu/events/workshops/cesm/2022 
     extra: 
 
+  - title: Addressing the Software Engineering Challenges within the EarthWorks Project
+    authors:
+      - Sheri Mickelson
+    conference: World Climate Research Programme (WCRP) Workshop
+    month: October
+    year: 2022
+    url: https://www.youtube.com/watch?v=UvsptUVi-eM&list=PLsqhY3nFckOHU-L6lxgf-oEgA-Eus_bA3&index=4&t=1260s 
+
   - title: Enabling the execution of PUMAS on GPUs
     authors:
       - Jian Sun
@@ -26,4 +34,85 @@ items  :
     conference: 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8)
     month: November
     year: 2022
+    url:
+
+  - title: Lossy Data Compression and the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: European Geophysical Union (EGU) General Assembly, 
+    month: May
+    year: 2022
     url: 
+
+  - title: Lossy Data Compression and the Community Earth System ModelQuality assurance and error identification for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: First International Workshop on Software Correctness for HPC Applications, SC’17 
+    month: November
+    year: 2017
+    url: 
+
+  - title: Evaluating lossy compression in climate models
+    authors:
+     - Allison Baker
+    conference: Workshop on exploiting data compression for climate science workflows in the exascale era
+    month: February
+    year: 2022
+    url: 
+
+  - title: Evaluating lossy compression in climate modelsIs that answer ‘right’?  Quality assurance for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: SIAM Conference on Applied Linear Algebra
+    month: May
+    year: 2021
+    url:
+
+  - title: NCAR's CMIP6 Efforts 
+    authors:
+     - Sheri Mickelson
+    conference: International Computing in the Atmospheric Sciences symposium 2019 
+    month: September
+    year: 2019
+    url: 
+
+  - title: Is that a right answer? Evaluating correctness in ~2 million lines of a climate model code
+    authors:
+     - Allison Baker
+    conference: University of Colorado, Computer Science Department Colloquium
+    month: November
+    year: 2019
+    url:
+    
+  - title: Optimizing Data Compression for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: AGU Fall Meeting
+    month: December
+    year: 2019
+    url:
+    
+  - title: Statistical Consistency Testing for the Community Earth System Model
+    authors:
+     - Allison Baker
+    conference: SIAM Conference on Mathematics of Planet Earth
+    month: September
+    year: 2018
+    url:
+
+  - title: A new workflow for CESM to address CMIP6 challenges
+    authors:
+     - Sheri Mickelson
+    conference: 3rd ENES Workshop on Workflows
+    month: September
+    year: 2018
+    url:
+
+  - title: Parallel Python tools for handling big climate data 
+    authors:
+     - Sheri Mickelson
+    conference: 2018 Workshop on Developing Python Frameworks for Earth System Sciences
+    month: October
+    year: 2018
+    url: 
+

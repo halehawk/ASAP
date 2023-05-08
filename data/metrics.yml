@@ -1,16 +1,19 @@
 enable: true
-heading: THE IMPACTS OF OUR WORK
+heading: Impacts of our work
 counter_item:
-- title: Software packages we've contributed towards
-  number: many
-
-- title: Impact of our efforts
-  number: a lot 
-
 - title: Publications
-  number: lots
+  number: 38
   url: publications
 
-- title: SIParCS Interns
-  number: 16
+- title: Presentations 
+  number: 10
+  url: presentations
+
+- title: SIParCS Interns 
+  number: 17
   url: siparcs
+
+- title: Visitors
+  number: 5
+  url: visitors
+

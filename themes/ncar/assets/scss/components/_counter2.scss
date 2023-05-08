@@ -1,9 +1,9 @@
-.site-counter {
+.site-counter2 {
   padding: 85px 0;
   color: $highlight-color;
-  background: $primary-color;
+  background: $secondary-color;
   h2 {
-    color: rgb(0, 17, 62);
+    color: $primary-color;
     font-weight: 600;
     text-transform: none;
     letter-spacing: 0px;
@@ -25,7 +25,7 @@
     }
     &-number {
       color: $white;
-      font-size: 50px;
+      font-size: 20px;
       margin-bottom: 0;
       font-weight: 700;
     }
