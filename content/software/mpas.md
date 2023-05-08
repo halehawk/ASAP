@@ -3,7 +3,7 @@ title  : "MPAS OpenACC"
 date   : 2022-05-03T09:23:17-06:00
 type   : software
 tagline: "MPAS OpenACC"
-docs   : "https://geocat.ucar.edu/"
+docs   : "https://mpas-dev.github.io/atmosphere/OpenACC/index.html"
 repo   : "https://github.com/MPAS-Dev/MPAS-Model"
 image  : "images/backgrounds/Earth_grid.jpeg"
 ---
