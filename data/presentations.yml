@@ -116,3 +116,157 @@ items  :
     year: 2018
     url: 
 
+  - title: KGen A Python tool for automated Fortran kernel generation and verification
+    authors:
+     - Younsung Kim
+     - John M. Dennis
+    conference: KISTI KGen Workshop 2017
+    month: December
+    year: 2017
+    url: http://n2t.net/ark:/85065/d7f76gfg
+
+  - title: CICE and POP2 boundary-exchange performance optimization
+    authors:
+     - Youngsung Kim
+     - John M. Dennis
+    conference: CESM Workshop 2018
+    month: June
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7n300wq
+
+  - title: I/O performance with compression enabled
+    authors: 
+     - Haiying Xu
+     - John M Dennis
+    conference: CESM Workshop 2019
+    month: June
+    year: 2019
+    url: http://n2t.net/ark:/85065/d70c507z 
+
+  - title: Evaluating the performance of the NEC Vector Engine and Cavium Thunder X2 on NCAR kernels
+    authors: 
+     - John M. Dennis
+     - Brian Dobbins
+     - Youngsung Kim
+    conference: Multicore 8 Worksjhop 2018
+    month: September
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7cn772j
+
+  - title: Transforming an observational assimilation application on CPU and GPU
+    authors: 
+     - John M. Dennis
+     - Brian Dobbins
+     - Allison Baker
+     - Yougnsung Kim
+    conference: Multicore 10 workshop 2020
+    month: September
+    year: 2020
+    url: http://n2t.net/ark:/85065/d7gb27b2
+  
+  - title: Assessing representativeness of kernels using descrsiptive statistics
+    authors:
+     - Youngsung Kim
+     - John M. Dennis
+    conference: Workshop on Representative Applications (WRAp) 2017
+    month: September
+    year: 2017
+    url: http://n2t.net/ark:/85065/d7df6tqz
+
+  - title: Reduced precision microphysics parameterizations in CAM
+    authors: 
+     - John Dennis
+     - Dan Milroy
+     - Andrew Gettelman
+     - Allison Baker
+    conference: Atmosphere Model Working Groiup Winter Meeting 2019
+    month: February
+    year: 2019
+    url: http://n2t.net/ark:/85065/d78055q0
+
+  - title: Experience with mixed-precision within physics parameterizations
+    authors:
+     - John Dennis
+     - Dan Milroy
+     - Allison Baker
+     - Andrew Gettelman
+     - Dorith Hammerling
+    conference: Multicore 9 Workshop 2019
+    month: September
+    year: 2019
+    url: http://n2t.net/ark:/85065/d7474f0p
+
+  - title: Fortran Kernel Generator (KGen) and other NCAR tools
+    authors:
+     - Youngsung Kim
+     - John Dennis
+     - Allison Baker
+     - Kevin Paul
+     - Sheri Mickelson
+    conference: Korea Meteorological Admistration - Numerical Modeling Center
+    month: January
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7445qdq
+
+  - title: Lossy data compression for climate simulation data Reducing data voume while preserving information
+    authors: 
+     - Allison Baker
+     - Dorith Hammerling
+     - Haiying Xu
+     - John Dennis
+     - John P. Clyne
+     - Shaomeng Li
+    conference: The Platform for Atvanced Scientific Computing (PASC18) Conference 2018
+    month: July
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7445qc8
+
+  - title: An overview of GPU enablement activities in STP and ASAP
+    authors:
+     - John Dennis
+     - Supreeth Suresh
+     - Cena Miller
+     - Brian Dobbins
+     - Allison Baker
+     - Jian Sun
+     - Youngsung Kim
+    conference: CESM Software Engineering Working Group Meeting 2021
+    month: June
+    year: 2021
+    url: http://n2t.net/ark:/85065/d7kp85mg
+
+  - title: The accumulated impact of code optimizations on scientific throughput of CESM on Cheyenne
+    authors:
+     - John M. Dennis
+     - Rory Kelly
+     - James Edwards
+     - Brian Dobbins
+     - Christoper L. Kerr
+     - Youngsung Kim
+     - Raghu Raj Prassana Kumar
+     - Sheri Mickelson 
+     - Richard D. Loft
+     - Mariana Vertenstein
+     - Sean Santos
+    conference: CESM Software Engineering Working Group Meeting 2018
+    month: February
+    year: 2018
+    url: http://n2t.net/ark:/85065/d79026qk
+
+  - title: The accumulated impact of code optimizations on scientific throughput of an HPC center
+    authors:
+     - John M. Dennis
+     - Rory Kelly
+     - James Edwards
+     - Brian Dobbins
+     - Christoper L. Kerr
+     - Youngsung Kim
+     - Raghu Raj Prassana Kumar
+     - Sheri Mickelson 
+     - Richard D. Loft
+     - Mariana Vertenstein
+     - Sean Santos
+    conference: 5th ENES Workshop on High Performance Computing for High-resolution Climate and Weather Modeling
+    month: June
+    year: 2018
+    url: http://n2t.net/ark:/85065/d79k4f5x
