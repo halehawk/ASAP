@@ -2,7 +2,7 @@ enable: true
 heading: Impacts of our work
 counter_item:
 - title: Publications
-  number: 41
+  number: 42
   url: publications
 
 - title: Presentations 
