@@ -3,6 +3,25 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
 
+  - title: North Atlantic subtropical mode water formation controlled by ocean fronts
+    authors:
+      - Bolan Gan
+      - Jingjie Yu
+      - Lixin Wu
+      - Gokhan Danabasoglu
+      - R. Justin Small
+      - Allison H. Baker
+      - Zhao Jing
+      - Xiaohui Ma
+      - Fan Jia
+      - Haiyuan Yang
+      - Zhaohui Chen
+    journal: National Science Review
+    year: 2023
+    url: https://doi.org/10.1093/nsr/nwad133
+
+
+
   - title: Importance of Ice Nucleation and Precipitation on Climate with the Parameterization of Unified Microphysics Across Scales version 1 (PUMASv1)
     authors:
       - Andrew Gettelman
