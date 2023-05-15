@@ -87,9 +87,8 @@ items  :
       - A.H. Baker
       - M.G. Genton
     journal: Journal of Agricultural, Biological, and Environmental Statistics
-    year: 2022
-    extra: to appear
-    url: 
+    year: 2023
+    url: https://link.springer.com/article/10.1007/s13253-022-00518-x
   
   - title: Pangeo benchmarking analysis:Object storage vs. POSIX file system
     authors:

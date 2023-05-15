@@ -2,11 +2,11 @@ enable: true
 heading: Impacts of our work
 counter_item:
 - title: Publications
-  number: 38
+  number: 41
   url: publications
 
 - title: Presentations 
-  number: 10
+  number: 27
   url: presentations
 
 - title: SIParCS Interns 
