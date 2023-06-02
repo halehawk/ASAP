@@ -3,7 +3,7 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
 
-  - title:  
+  - title: Acceleration of the Parameterization of Unified Microphysics Across Scales (PUMAS) on the Graphics Processing Unit (GPU) With Directive-Based Methods 
     authors:
       - Jian Sun
       - John M. Dennis
