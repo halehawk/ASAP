@@ -3,6 +3,18 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
 
+  - title:  
+    authors:
+      - Jian Sun
+      - John M. Dennis
+      - Sheri A. Mickelson
+      - Brian Vanderwende
+      - Andrew Gettelman
+      - Katherine Thayer-Calder
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2023
+    url: https://doi.org/10.1029/2022MS003515
+
   - title: North Atlantic subtropical mode water formation controlled by ocean fronts
     authors:
       - Bolan Gan
@@ -19,8 +31,6 @@ items  :
     journal: National Science Review
     year: 2023
     url: https://doi.org/10.1093/nsr/nwad133
-
-
 
   - title: Importance of Ice Nucleation and Precipitation on Climate with the Parameterization of Unified Microphysics Across Scales version 1 (PUMASv1)
     authors:
