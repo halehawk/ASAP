@@ -3,6 +3,14 @@ title  : PRESENTATIONS
 image  : images/banners/peaks.jpg
 items  :
 
+  - title: Accelerating the Cloud Microphysics Parameterization on GPU Using the Directive-Based Methods 
+    authors:
+      - Jian Sun
+    conference: Open Accelerated Computing Summit (OACS)
+    month: October 
+    year: 2023
+    url: https://events.zoom.us/ejl/AtQo4-grM4ndJNfHIYuzl9jZZ1Uzciv7In8VUYcN7bo5rL-1R9UR~A44W_1eKIRWZDssG-2hfB_6mP7KvrxMvX-vsZmklvxdBh3GVSO-Fx7GdDIoQ0FuR_sf-qol7DQY7Y0OHZAXM-m-XUvGM/sessions/EI6mlzDbTASuLRX-yGKWRA 
+
   - title: Fine-tuning evaluation metrics for lossy compression of CESM data
     authors:
       - Allison Baker
