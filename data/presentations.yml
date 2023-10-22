@@ -3,6 +3,13 @@ title  : PRESENTATIONS
 image  : images/banners/peaks.jpg
 items  :
 
+  - title: EarthWorks The computational and engineering challenges faced when building a global storm-resolving resolution modeling system 
+    authors:
+      - Sheri Mickelson
+    conference: The 20th ECMWF workshop on high performance computing in meteorology
+    month: October
+    year: 2023
+    url: https://ecmwfevents.com/i/724799ca-9742-4295-8ccb-61e7f92c20e0/oral-presentations/58f1a57e-72e5-4c4f-902b-94319ed3a37c
   - title: Accelerating the Cloud Microphysics Parameterization on GPU Using the Directive-Based Methods 
     authors:
       - Jian Sun
