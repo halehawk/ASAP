@@ -17,11 +17,6 @@ members  :
     ncaruname   : dennis 
     githubuname : johnmauff
 
-  - name        : SHERI MICKELSON
-    designation : Software Engineer III
-    ncaruname   : mickelso 
-    githubuname : sherimickelson
-
   - name        : ALEXANDER PINARD 
     designation : Visitor
     ncaruname   : apinard
@@ -36,6 +31,11 @@ members  :
     designation : Software Engineer II
     ncaruname   : ssuresh 
     githubuname : supreethms1809 
+
+  - name        : SHERI VOELZ
+    designation : Software Engineer III
+    ncaruname   : mickelso
+    githubuname : sherimickelson
 
   - name        : HAIYING XU
     designation : Software Engineer III
