@@ -3,6 +3,35 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
 
+  - title: Acceleration of the Parameterization of Unified Microphysics Across Scales (PUMAS) on the Graphics Processing Unit (GPU) With Directive-Based Methods 
+    authors:
+      - Jian Sun
+      - John M. Dennis
+      - Sheri A. Mickelson
+      - Brian Vanderwende
+      - Andrew Gettelman
+      - Katherine Thayer-Calder
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2023
+    url: https://doi.org/10.1029/2022MS003515
+
+  - title: North Atlantic subtropical mode water formation controlled by ocean fronts
+    authors:
+      - Bolan Gan
+      - Jingjie Yu
+      - Lixin Wu
+      - Gokhan Danabasoglu
+      - R. Justin Small
+      - Allison H. Baker
+      - Zhao Jing
+      - Xiaohui Ma
+      - Fan Jia
+      - Haiyuan Yang
+      - Zhaohui Chen
+    journal: National Science Review
+    year: 2023
+    url: https://doi.org/10.1093/nsr/nwad133
+
   - title: Importance of Ice Nucleation and Precipitation on Climate with the Parameterization of Unified Microphysics Across Scales version 1 (PUMASv1)
     authors:
       - Andrew Gettelman
@@ -87,9 +116,8 @@ items  :
       - A.H. Baker
       - M.G. Genton
     journal: Journal of Agricultural, Biological, and Environmental Statistics
-    year: 2022
-    extra: to appear
-    url: 
+    year: 2023
+    url: https://link.springer.com/article/10.1007/s13253-022-00518-x
   
   - title: Pangeo benchmarking analysis:Object storage vs. POSIX file system
     authors:

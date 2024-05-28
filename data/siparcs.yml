@@ -2,6 +2,26 @@ enable : true
 title  : SIParCS PROJECTS
 image  : images/banners/aurora.jpg
 items  :
+
+  - title: "GPU Enablement of MICM Chemistry Solver"
+    student: Qina Tan
+    university: Colorado School of Mines
+    url: "https://www2.cisl.ucar.edu/outreach/internships/2023presentations"
+    mentors:
+     - Jian Sun
+     - John Dennis
+     - Matthew Dawson
+    year: 2023
+
+  - title: "Containerization of simulation applications for frequently re-run configurations"
+    student: Si Chen
+    university: Emory University 
+    url: "https://www2.cisl.ucar.edu/outreach/internships/2023presentations"
+    mentors:
+     - Haiying Xu
+     - Sheri Mickelson
+     - Jian Sun 
+    year: 2023
        
   - title: "Increasing the portability and reproducibility of a scientific application using containers and Spack"
     student: Joe Ammatelli

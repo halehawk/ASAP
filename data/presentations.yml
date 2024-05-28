@@ -3,6 +3,21 @@ title  : PRESENTATIONS
 image  : images/banners/peaks.jpg
 items  :
 
+  - title: EarthWorks The computational and engineering challenges faced when building a global storm-resolving resolution modeling system 
+    authors:
+      - Sheri Mickelson
+    conference: The 20th ECMWF workshop on high performance computing in meteorology
+    month: October
+    year: 2023
+    url: https://ecmwfevents.com/i/724799ca-9742-4295-8ccb-61e7f92c20e0/oral-presentations/58f1a57e-72e5-4c4f-902b-94319ed3a37c
+  - title: Accelerating the Cloud Microphysics Parameterization on GPU Using the Directive-Based Methods 
+    authors:
+      - Jian Sun
+    conference: Open Accelerated Computing Summit (OACS)
+    month: October 
+    year: 2023
+    url: https://events.zoom.us/ejl/AtQo4-grM4ndJNfHIYuzl9jZZ1Uzciv7In8VUYcN7bo5rL-1R9UR~A44W_1eKIRWZDssG-2hfB_6mP7KvrxMvX-vsZmklvxdBh3GVSO-Fx7GdDIoQ0FuR_sf-qol7DQY7Y0OHZAXM-m-XUvGM/sessions/EI6mlzDbTASuLRX-yGKWRA 
+
   - title: Fine-tuning evaluation metrics for lossy compression of CESM data
     authors:
       - Allison Baker
@@ -11,6 +26,14 @@ items  :
     year: 2022
     url: https://www.cesm.ucar.edu/events/workshops/cesm/2022 
     extra: 
+
+  - title: Addressing the Software Engineering Challenges within the EarthWorks Project
+    authors:
+      - Sheri Mickelson
+    conference: World Climate Research Programme (WCRP) Workshop
+    month: October
+    year: 2022
+    url: https://www.youtube.com/watch?v=UvsptUVi-eM&list=PLsqhY3nFckOHU-L6lxgf-oEgA-Eus_bA3&index=4&t=1260s 
 
   - title: Enabling the execution of PUMAS on GPUs
     authors:
@@ -58,6 +81,14 @@ items  :
     conference: SIAM Conference on Applied Linear Algebra
     month: May
     year: 2021
+    url:
+
+  - title: NCAR's CMIP6 Efforts 
+    authors:
+     - Sheri Mickelson
+    conference: International Computing in the Atmospheric Sciences symposium 2019 
+    month: September
+    year: 2019
     url: 
 
   - title: Is that a right answer? Evaluating correctness in ~2 million lines of a climate model code
@@ -82,4 +113,175 @@ items  :
     conference: SIAM Conference on Mathematics of Planet Earth
     month: September
     year: 2018
+    url:
+
+  - title: A new workflow for CESM to address CMIP6 challenges
+    authors:
+     - Sheri Mickelson
+    conference: 3rd ENES Workshop on Workflows
+    month: September
+    year: 2018
+    url:
+
+  - title: Parallel Python tools for handling big climate data 
+    authors:
+     - Sheri Mickelson
+    conference: 2018 Workshop on Developing Python Frameworks for Earth System Sciences
+    month: October
+    year: 2018
     url: 
+
+  - title: KGen A Python tool for automated Fortran kernel generation and verification
+    authors:
+     - Younsung Kim
+     - John M. Dennis
+    conference: KISTI KGen Workshop 2017
+    month: December
+    year: 2017
+    url: http://n2t.net/ark:/85065/d7f76gfg
+
+  - title: CICE and POP2 boundary-exchange performance optimization
+    authors:
+     - Youngsung Kim
+     - John M. Dennis
+    conference: CESM Workshop 2018
+    month: June
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7n300wq
+
+  - title: I/O performance with compression enabled
+    authors: 
+     - Haiying Xu
+     - John M Dennis
+    conference: CESM Workshop 2019
+    month: June
+    year: 2019
+    url: http://n2t.net/ark:/85065/d70c507z 
+
+  - title: Evaluating the performance of the NEC Vector Engine and Cavium Thunder X2 on NCAR kernels
+    authors: 
+     - John M. Dennis
+     - Brian Dobbins
+     - Youngsung Kim
+    conference: Multicore 8 Worksjhop 2018
+    month: September
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7cn772j
+
+  - title: Transforming an observational assimilation application on CPU and GPU
+    authors: 
+     - John M. Dennis
+     - Brian Dobbins
+     - Allison Baker
+     - Yougnsung Kim
+    conference: Multicore 10 workshop 2020
+    month: September
+    year: 2020
+    url: http://n2t.net/ark:/85065/d7gb27b2
+  
+  - title: Assessing representativeness of kernels using descrsiptive statistics
+    authors:
+     - Youngsung Kim
+     - John M. Dennis
+    conference: Workshop on Representative Applications (WRAp) 2017
+    month: September
+    year: 2017
+    url: http://n2t.net/ark:/85065/d7df6tqz
+
+  - title: Reduced precision microphysics parameterizations in CAM
+    authors: 
+     - John Dennis
+     - Dan Milroy
+     - Andrew Gettelman
+     - Allison Baker
+    conference: Atmosphere Model Working Groiup Winter Meeting 2019
+    month: February
+    year: 2019
+    url: http://n2t.net/ark:/85065/d78055q0
+
+  - title: Experience with mixed-precision within physics parameterizations
+    authors:
+     - John Dennis
+     - Dan Milroy
+     - Allison Baker
+     - Andrew Gettelman
+     - Dorith Hammerling
+    conference: Multicore 9 Workshop 2019
+    month: September
+    year: 2019
+    url: http://n2t.net/ark:/85065/d7474f0p
+
+  - title: Fortran Kernel Generator (KGen) and other NCAR tools
+    authors:
+     - Youngsung Kim
+     - John Dennis
+     - Allison Baker
+     - Kevin Paul
+     - Sheri Mickelson
+    conference: Korea Meteorological Admistration - Numerical Modeling Center
+    month: January
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7445qdq
+
+  - title: Lossy data compression for climate simulation data Reducing data voume while preserving information
+    authors: 
+     - Allison Baker
+     - Dorith Hammerling
+     - Haiying Xu
+     - John Dennis
+     - John P. Clyne
+     - Shaomeng Li
+    conference: The Platform for Atvanced Scientific Computing (PASC18) Conference 2018
+    month: July
+    year: 2018
+    url: http://n2t.net/ark:/85065/d7445qc8
+
+  - title: An overview of GPU enablement activities in STP and ASAP
+    authors:
+     - John Dennis
+     - Supreeth Suresh
+     - Cena Miller
+     - Brian Dobbins
+     - Allison Baker
+     - Jian Sun
+     - Youngsung Kim
+    conference: CESM Software Engineering Working Group Meeting 2021
+    month: June
+    year: 2021
+    url: http://n2t.net/ark:/85065/d7kp85mg
+
+  - title: The accumulated impact of code optimizations on scientific throughput of CESM on Cheyenne
+    authors:
+     - John M. Dennis
+     - Rory Kelly
+     - James Edwards
+     - Brian Dobbins
+     - Christoper L. Kerr
+     - Youngsung Kim
+     - Raghu Raj Prassana Kumar
+     - Sheri Mickelson 
+     - Richard D. Loft
+     - Mariana Vertenstein
+     - Sean Santos
+    conference: CESM Software Engineering Working Group Meeting 2018
+    month: February
+    year: 2018
+    url: http://n2t.net/ark:/85065/d79026qk
+
+  - title: The accumulated impact of code optimizations on scientific throughput of an HPC center
+    authors:
+     - John M. Dennis
+     - Rory Kelly
+     - James Edwards
+     - Brian Dobbins
+     - Christoper L. Kerr
+     - Youngsung Kim
+     - Raghu Raj Prassana Kumar
+     - Sheri Mickelson 
+     - Richard D. Loft
+     - Mariana Vertenstein
+     - Sean Santos
+    conference: 5th ENES Workshop on High Performance Computing for High-resolution Climate and Weather Modeling
+    month: June
+    year: 2018
+    url: http://n2t.net/ark:/85065/d79k4f5x

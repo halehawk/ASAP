@@ -1,6 +1,6 @@
 ---
 title: "ASAP Member Featured Within the 'SuperComputing 2023 Celebrates Thirty-One Women in HPC' Series"
-author: ""
+author: "Sheri Mickelson"
 date: 2023-05-01T11:22:25-06:00
 type: news
 feature_image: images/blog/sheri_sc_whpc.jpeg
